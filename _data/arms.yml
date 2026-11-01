@@ -20,6 +20,20 @@
   image_credit: "The city's arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
   notes: "The arms of the City of San Antonio as published. The tau is the cross of Saint Anthony of Padua, the city's patron; the sinister side bears the Lone Star above the Alamo. The motto, Libertatis Cunabula — Cradle of Liberty — is the city's own, carried also on its seal (designed 1925 by Johannes C. Scholze; designated the official seal in 1981)."
 
+- id: archdiocese-of-san-antonio
+  name: "Archdiocese of San Antonio"
+  name_es: "Arquidiócesis de San Antonio"
+  blazon: "Azure, on a cross quadrate in the centre Argent a Tau-cross of the first; in dexter chief a star of the second. The shield is ensigned with a mitre. (Blazon as recorded in Heuser, Some Recent Episcopal Arms, The American Ecclesiastical Review, 1916.)"
+  image: "assets/arms/archdiocese-of-san-antonio.svg"
+  image_credit: "The arms of the Archdiocese as depicted on Wikimedia Commons (depiction by Linestamp, released into the public domain under CC0)."
+  notes: "The Roman Catholic archdiocese erected as the Diocese of San Antonio on 28 August 1874 and raised to an archdiocese on 3 August 1926; its cathedral is San Fernando, and its territory includes Bexar County. The tau is the crutch-cross of Saint Anthony of Padua, the city's patron; the star is the Lone Star of Texas. The same tau appears in the arms of the City of San Antonio in this Roll. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Archdiocese of San Antonio."
+
+- id: diocese-of-west-texas
+  name: "Episcopal Diocese of West Texas"
+  blazon: "Quarterly Gules and Azure, a cross throughout Argent between: in the first quarter a representation of the Alamo Argent; in the second a mullet Argent; in the third the lion of Saint Mark Or; in the fourth the bull of Saint Luke Or; overall an escutcheon Azure bearing a trophy of six flags and a dovetailed banner Argent charged with a cross Gules. The shield is ensigned with a bishop's mitre, and below it a scroll bears the motto. (Blazon rendered from the diocese's own account of its shield and the description at Heraldry of the World.)"
+  motto: "Πάντα δυνατὰ τῷ πιστεύοντι — Everything is possible to one who has faith (Mark 9:23)"
+  notes: "The Episcopal diocese formed in 1874 as the Missionary District of Western Texas and erected a diocese in 1904; its see city is San Antonio and its territory includes Bexar County. Its shield was designed by the Reverend Louis A. Parker and adopted in 1927: the Alamo, cradle of Texas liberty; the star, for the Lone Star of Texas and the star of Bethlehem; the winged lion of Saint Mark; and the winged ox of Saint Luke; the six flags of the central escutcheon are the six flags over Texas, the Church's banner the seventh. The shield is recorded here in words; its depiction will be added when the College's standard rendering is made. Recorded for identification; this entry implies no affiliation with, and no endorsement by, the Diocese of West Texas."
+
 - id: order-of-the-alamo
   name: "Order of the Alamo"
   name_es: "Orden del Álamo"
