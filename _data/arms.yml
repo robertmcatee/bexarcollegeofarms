@@ -1,0 +1,21 @@
+# The Roll's data. One record per entry; the site renders from this file.
+# To add an entry: add a record here and drop its image in assets/arms/.
+# Fields: id, name, name_es, blazon, motto (omit if none), image,
+#         image_credit, notes. English first, Spanish in line.
+
+- id: bexar-county
+  name: "Bexar County"
+  name_es: "Condado de Béxar"
+  blazon: "Quarterly: first, Argent, a bend Sable, an orle of eight chain links Or overall; second, Azure, Mission San Francisco de la Espada Argent; third, Vert, an eagle displayed Or; fourth, Gules, in chief a mullet and in base a cannon, both Argent. Above the shield, a Spanish ducal coronet; below, a banner inscribed BEXAR."
+  image: "assets/arms/bexar-county.svg"
+  image_credit: "The county's official arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
+  notes: "The official coat of arms of Bexar County, adopted by the Commissioners Court on 22 December 1971 (the county website's symbols page gives 1972; the county history gives 1971, with the fuller account). Designed by Thomas A. Wilson and illustrated by Ramon Vasquez y Sanchez; confirmed and approved by Fernando Muñoz Altea, King of Arms of the Royal House of Bourbon-Two Sicilies. The first quarter bears the arms of Don Álvaro de Zúñiga, Duke of Béjar, with the gold chains of Navarre; the cannon in the fourth quarter is turned toward the eagle of the third, for the wars Texas fought with both Mexico and the United States."
+
+- id: san-antonio
+  name: "City of San Antonio"
+  name_es: "Ciudad de San Antonio"
+  blazon: "Per pale: dexter, Or and Gules over Argent semy of ermine spots Sable, overall a tau cross Azure; sinister, Gules, in chief a mullet Azure and Argent, in base the Alamo Argent. Above the shield, a mural crown Or; below, a banner inscribed LIBERTATIS CUNABULA. (Blazon rendered descriptively from the published depiction; the official blazon is to be confirmed.)"
+  motto: "Libertatis Cunabula"
+  image: "assets/arms/san-antonio.svg"
+  image_credit: "The city's arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
+  notes: "The arms of the City of San Antonio as published. The tau is the cross of Saint Anthony of Padua, the city's patron; the sinister side bears the Lone Star above the Alamo. The motto, Libertatis Cunabula — Cradle of Liberty — is the city's own, carried also on its seal (designed 1925 by Johannes C. Scholze; designated the official seal in 1981)."
