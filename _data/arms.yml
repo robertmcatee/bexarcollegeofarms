@@ -23,11 +23,22 @@
 - id: order-of-the-alamo
   name: "Order of the Alamo"
   name_es: "Orden del Álamo"
-  notes: "Founded in 1909 by John B. Carrington and incorporated in 1915, the Order chooses the Queen of Fiesta and her court — a princess and twenty-four duchesses — and stages the Coronation of the Queen, one of the oldest ceremonies of Fiesta. Its charter purpose is to educate in the history of the independence of Texas and to perpetuate the memory of the Battle of San Jacinto. The Order publishes no arms and no badge; none is recorded here. This entry is made in words only, for identification, and implies no affiliation with, and no endorsement by, the Order of the Alamo."
+  image: "assets/arms/order-of-the-alamo.png"
+  image_credit: "The Order's device as used by the Order: two griffins supporting a laurel wreath around a star, a crown above, and the Order's name on a scroll below. Shown in its line form."
+  notes: "Founded in 1909 by John B. Carrington and incorporated in 1915, the Order chooses the Queen of Fiesta and her court — a princess and twenty-four duchesses — and stages the Coronation of the Queen, one of the oldest ceremonies of Fiesta. Its charter purpose is to educate in the history of the independence of Texas and to perpetuate the memory of the Battle of San Jacinto. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
 
 - id: texas-cavaliers
   name: "Texas Cavaliers"
-  notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon. The device they use is an organizational badge, not a coat of arms: a shield bearing a mounted cavalier, a star above the shield, and a scroll below inscribed TEXAS CAVALIERS, as displayed on their own site, texascavaliers.org. Recorded here in words only, for identification: their artwork is theirs, is not reproduced in this Roll, and this entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
+  image: "assets/arms/texas-cavaliers.svg"
+  image_credit: "The Cavaliers' organizational badge as displayed on their own site, texascavaliers.org: a mounted cavalier within a red-bordered shield, a star above, and a scroll below inscribed TEXAS CAVALIERS."
+  notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon; the device shown is their organizational badge, not a coat of arms, recorded here for identification. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
+
+- id: san-antonio-german-club
+  name: "San Antonio German Club"
+  blazon: "Per bend sinister Gules and Argent: in the Gules a crescent and a mullet Argent; in the Argent a lyre Gules. The shield is flanked by two palm trees, and below it a scroll is inscribed SAN ANTONIO GERMAN CLUB. (Blazon rendered descriptively from the club's depiction.)"
+  image: "assets/arms/san-antonio-german-club.jpg"
+  image_credit: "The club's arms as used by the club, with its palm-tree supporters and name scroll."
+  notes: "The arms of the German club of San Antonio, from the city's German-Texan community: the crescent and star on the red field, and a lyre in base for German song, the whole flanked by two palm trees — a Texas flourish on a German shield. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the club."
 
 - id: mcatee
   name: "Robert McAtee"
