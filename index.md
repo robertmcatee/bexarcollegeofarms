@@ -23,7 +23,7 @@
 
 <hr class="rule">
 
-This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of Bexar. The Roll is rendered from a single data file: one record per entry — name, blazon, motto, notes — with one image per entry. Entries are added by adding a record, never by editing this page.
+This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of Bexar. The Roll is rendered from a single data file: one record per entry — name, blazon, crest, motto, notes — with one image per entry. Entries are added by adding a record, never by editing this page.
 
 <p class="stub">The Roll is newly opened. The missions, the lineages, and the rest of the county's armory are to follow.</p>
 
@@ -32,9 +32,10 @@ This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of 
 {% for arm in site.data.arms %}
 <div class="entry">
   <h2>{{ arm.name }}{% if arm.name_es %} <span class="name-es">· {{ arm.name_es }}</span>{% endif %}</h2>
-  {% if arm.image %}<img src="{{ arm.image | relative_url }}" alt="Arms of {{ arm.name }}">{% endif %}
+  {% if arm.image %}<img src="{{ arm.image | relative_url }}" alt="{{ arm.image_alt | default: 'Arms of ' | append: arm.name }}">{% endif %}
   {% if arm.image_credit %}<p class="credit">{{ arm.image_credit }}</p>{% endif %}
   {% if arm.blazon %}<p class="blazon"><span class="label">Blazon</span> — {{ arm.blazon }}</p>{% endif %}
+  {% if arm.crest %}<p><span class="label">Crest</span> — {{ arm.crest }}</p>{% endif %}
   {% if arm.motto %}<p><span class="label">Motto</span> — {{ arm.motto }}</p>{% endif %}
   <p>{{ arm.notes }}</p>
 </div>
