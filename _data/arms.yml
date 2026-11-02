@@ -1,6 +1,8 @@
 # The Roll's data. One record per entry; the site renders from this file.
 # To add an entry: add a record here and drop its image in assets/arms/.
-# Fields: id, name, name_es, blazon, motto (omit if none), image,
+# Fields: id, name, name_es, blazon (shield only), crest (only where the
+#         arms bear one — kept separate from the blazon), motto (omit if
+#         none), image, image_alt (omit to default to "Arms of <name>"),
 #         image_credit, notes. English first, Spanish in line.
 
 - id: bexar-county
@@ -37,6 +39,33 @@
   motto: "Ven Holy Spirit Ven"
   notes: "The personal arms of Gustavo García-Siller, a Missionary of the Holy Spirit, Archbishop of San Antonio since 2010, impaled with the arms of his archdiocese as is customary for a diocesan bishop. The dove and flames are the Holy Spirit of his congregation and his motto; Our Lady of Guadalupe is the patroness of Mexico, his native country, and of the Americas. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Archbishop García-Siller or the Archdiocese of San Antonio."
 
+- id: boulette
+  name: "Michael Joseph Boulette"
+  name_es: "Michael Joseph Boulette, Obispo Auxiliar de San Antonio"
+  image: "assets/arms/boulette.svg"
+  image_credit: "The personal arms of Bishop Boulette, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
+  blazon: "Per saltire Vert and Azure, a saltire Argent between: in chief an open book Or; in the dexter flank a ewer above a basin Or; in the sinister flank a pair of wings conjoined Or; in base a tau cross Or between the letters N and D Or. Behind the shield a processional cross Or; above, a green galero with six tassels on either side. (Blazon rendered descriptively from the published depiction.)"
+  motto: "Wisdom Faith Discernment"
+  notes: "The personal arms of Michael Joseph Boulette, auxiliary bishop of San Antonio since 2017. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Boulette or the Archdiocese of San Antonio."
+
+- id: cepeda
+  name: "José Arturo Cepeda Escobedo"
+  name_es: "José Arturo Cepeda Escobedo, Obispo Auxiliar de San Antonio"
+  image: "assets/arms/cepeda.svg"
+  image_credit: "The personal arms of Bishop Cepeda, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
+  blazon: "Quarterly Sable and Azure: in the first quarter a tortoise Or; in the second a mullet Argent; in the third a ewer and basin with a towel Argent; in the fourth a closed book Or charged with a cross Sable. Behind the shield a processional cross Or; above, a green galero with six tassels on either side. (Blazon rendered descriptively from the published depiction.)"
+  motto: "Audiendum, Fiendum, Nuntiandum"
+  notes: "The personal arms of José Arturo Cepeda Escobedo, auxiliary bishop of San Antonio, formerly auxiliary bishop of Detroit, where these arms were first borne. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Cepeda or the Archdiocese of San Antonio."
+
+- id: janak
+  name: "Gary Wayne Janak"
+  name_es: "Gary Wayne Janak, Obispo Auxiliar de San Antonio"
+  image: "assets/arms/janak.svg"
+  image_credit: "The personal arms of Bishop Janak, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
+  blazon: "Azure: in dexter a crescent Argent, in sinister fretty Argent; on a chief Or, the Sacred Heart Gules, crowned with a cross and encircled by a crown of thorns, between a lily Argent above crossed logs and a rose Gules. Behind the shield a processional cross Or; above, a green galero with six tassels on either side. (Blazon rendered descriptively from the published depiction.)"
+  motto: "Give Your Servant a Listening Heart"
+  notes: "The personal arms of Gary Wayne Janak, auxiliary bishop of San Antonio since 2021. His motto is Solomon's prayer (1 Kings 3:9). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Janak or the Archdiocese of San Antonio."
+
 - id: diocese-of-west-texas
   name: "Episcopal Diocese of West Texas"
   image: "assets/arms/west-texas.png"
@@ -49,12 +78,14 @@
   name: "Order of the Alamo"
   name_es: "Orden del Álamo"
   image: "assets/arms/order-of-the-alamo.png"
+  image_alt: "Device of the Order of the Alamo"
   image_credit: "The Order's device as used by the Order, in the Order's purple: two griffins supporting a laurel wreath around a star, a crown above, and the Order's name on a scroll below (artwork via the Fiesta San Antonio Commission)."
   notes: "Founded in 1909 by John B. Carrington and incorporated in 1915, the Order chooses the Queen of Fiesta and her court — a princess and twenty-four duchesses — and stages the Coronation of the Queen, one of the oldest ceremonies of Fiesta. Its charter purpose is to educate in the history of the independence of Texas and to perpetuate the memory of the Battle of San Jacinto. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
 
 - id: texas-cavaliers
   name: "Texas Cavaliers"
   image: "assets/arms/texas-cavaliers.svg"
+  image_alt: "Badge of the Texas Cavaliers"
   image_credit: "The Cavaliers' organizational badge as displayed on their own site, texascavaliers.org: a mounted cavalier within a red-bordered shield, a star above, and a scroll below inscribed TEXAS CAVALIERS."
   notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon; the device shown is their organizational badge, not a coat of arms, recorded here for identification. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
 
@@ -67,7 +98,8 @@
 
 - id: mcatee
   name: "Robert McAtee"
-  blazon: "Gules, on a fess Or a closet compony Argent and Sable, in chief four fusils in fess Or. Crest: on a torse Or and Gules, six arrows, three in bend and three in bend sinister, points upwards, fretted Or, entwined by a serpent erect in pale wavy Gules."
+  blazon: "Gules, on a fess Or a closet compony Argent and Sable, in chief four fusils in fess Or."
+  crest: "On a torse Or and Gules, six arrows, three in bend and three in bend sinister, points upwards, fretted Or, entwined by a serpent erect in pale wavy Gules."
   motto: "Incepto Ne Desistam"
   image: "assets/arms/mcatee.svg"
   image_credit: "The armiger's own achievement, in the master rendering."
