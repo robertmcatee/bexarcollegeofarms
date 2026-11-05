@@ -1,11 +1,13 @@
 # The Roll's data. One record per entry; the site renders from this file.
 # To add an entry: add a record here and drop its image in assets/arms/.
-# Fields: id, name, name_es, blazon (shield only), crest (only where the
+# Fields: id, name, name_es, category (government | institutions | people),
+#         blazon (shield only), crest (only where the
 #         arms bear one — kept separate from the blazon), motto (omit if
 #         none), image, image_alt (omit to default to "Arms of <name>"),
 #         image_credit, notes. English first, Spanish in line.
 
 - id: texas
+  category: "government"
   name: "State of Texas"
   name_es: "Estado de Texas"
   image: "assets/arms/texas.png"
@@ -14,6 +16,7 @@
   notes: "The arms of the sovereign State, entered at the head of this Roll, under whose law the arms of Bexar County below were adopted. No other sovereign arms are recorded in this Roll. A READER'S QUESTION ANSWERED: the familiar modern rendering of these arms (standardized 1992) shows the star and branches with NO azure background at all. This College follows the legal text instead: the statute expressly includes the azure background, and a background in armory is a shield's field — so the star stands on an azure shield, and since the statute sets the branches around the whole, they are borne as a wreath outside the shield, in the arrangement settled on the state seal (live oak dexter, olive sinister). The older depictions differ among themselves — the Republic's $3 treasury note of 1841 shows the star alone on a round shield; an 1876 lithograph shrinks the star and wreath into a medallion set on a larger shield — and each is recorded here as a variant, not followed. The State bears no crest, helm, or supporters, in the republican manner; the same star-and-wreath device is borne as a crest, on a wreath of the colors Argent and Azure, by the Texas Army National Guard — a separate record under a different authority, and not the arms of the State."
 
 - id: bexar-county
+  category: "government"
   name: "Bexar County"
   name_es: "Condado de Béxar"
   blazon: "Quarterly: first, Argent, a bend Sable, an orle of eight chain links Or overall; second, Azure, Mission San Francisco de la Espada Argent; third, Vert, an eagle displayed Or; fourth, Gules, in chief a mullet and in base a cannon, both Argent. Above the shield, a Spanish ducal coronet; below, a banner inscribed BEXAR."
@@ -22,6 +25,7 @@
   notes: "The official coat of arms of Bexar County, adopted by the Commissioners Court on 22 December 1971 (the county website's symbols page gives 1972; the county history gives 1971, with the fuller account). Designed by Thomas A. Wilson and illustrated by Ramon Vasquez y Sanchez; confirmed and approved by Fernando Muñoz Altea, King of Arms of the Royal House of Bourbon-Two Sicilies. The first quarter bears the arms of Don Álvaro de Zúñiga, Duke of Béjar, with the gold chains of Navarre; the cannon in the fourth quarter is turned toward the eagle of the third, for the wars Texas fought with both Mexico and the United States."
 
 - id: san-antonio
+  category: "government"
   name: "City of San Antonio"
   name_es: "Ciudad de San Antonio"
   blazon: "Per pale: dexter, Or and Gules over Argent semy of ermine spots Sable, overall a tau cross Azure; sinister, Gules, in chief a mullet Azure and Argent, in base the Alamo Argent. Above the shield, a mural crown Or; below, a banner inscribed LIBERTATIS CUNABULA. (Blazon rendered descriptively from the published depiction; the official blazon is to be confirmed.)"
@@ -31,6 +35,7 @@
   notes: "The arms of the City of San Antonio as published. The tau is the cross of Saint Anthony of Padua, the city's patron; the sinister side bears the Lone Star above the Alamo. The motto, Libertatis Cunabula — Cradle of Liberty — is the city's own, carried also on its seal (designed 1925 by Johannes C. Scholze; designated the official seal in 1981)."
 
 - id: utsa
+  category: "institutions"
   name: "University of Texas at San Antonio"
   name_es: "Universidad de Texas en San Antonio"
   image: "assets/arms/utsa-crest.svg"
@@ -40,6 +45,7 @@
   notes: "The crest of the city's public research university, founded 1969. The circular crest was adopted in 2025 for the unified UT San Antonio, formed on 1 September 2025 by the merger of the University of Texas at San Antonio with the University of Texas Health Science Center at San Antonio. The University's own account of the mark: its stacked tiers are the crested waves of the San Antonio River Basin — the confluence of rivers, and of ideas — its base point an upward arrow of momentum and aspiration, and its shield an emblem of trust, academic rigor and protection. The crest is a modern trademark device, not a grant of arms. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the University."
 
 - id: archdiocese-of-san-antonio
+  category: "institutions"
   name: "Archdiocese of San Antonio"
   name_es: "Arquidiócesis de San Antonio"
   blazon: "Azure, on a cross quadrate in the centre Argent a Tau-cross of the first; in dexter chief a star of the second. The shield is ensigned with a mitre. (Blazon as recorded in Heuser, Some Recent Episcopal Arms, The American Ecclesiastical Review, 1916.)"
@@ -48,6 +54,7 @@
   notes: "The Roman Catholic archdiocese erected as the Diocese of San Antonio on 28 August 1874 and raised to an archdiocese on 3 August 1926; its cathedral is San Fernando, and its territory includes Bexar County. The tau is the crutch-cross of Saint Anthony of Padua, the city's patron; the star is the Lone Star of Texas. The same tau appears in the arms of the City of San Antonio in this Roll. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Archdiocese of San Antonio."
 
 - id: garcia-siller
+  category: "people"
   name: "Gustavo García-Siller"
   name_es: "Gustavo García-Siller, Arzobispo de San Antonio"
   image: "assets/arms/garcia-siller.svg"
@@ -57,6 +64,7 @@
   notes: "The personal arms of Gustavo García-Siller, a Missionary of the Holy Spirit, Archbishop of San Antonio since 2010, impaled with the arms of his archdiocese as is customary for a diocesan bishop. The dove and flames are the Holy Spirit of his congregation and his motto; Our Lady of Guadalupe is the patroness of Mexico, his native country, and of the Americas. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Archbishop García-Siller or the Archdiocese of San Antonio."
 
 - id: boulette
+  category: "people"
   name: "Michael Joseph Boulette"
   name_es: "Michael Joseph Boulette, Obispo Auxiliar de San Antonio"
   image: "assets/arms/boulette.svg"
@@ -66,6 +74,7 @@
   notes: "The personal arms of Michael Joseph Boulette, auxiliary bishop of San Antonio since 2017. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Boulette or the Archdiocese of San Antonio."
 
 - id: cepeda
+  category: "people"
   name: "José Arturo Cepeda Escobedo"
   name_es: "José Arturo Cepeda Escobedo, Obispo Auxiliar de San Antonio"
   image: "assets/arms/cepeda.svg"
@@ -75,6 +84,7 @@
   notes: "The personal arms of José Arturo Cepeda Escobedo, auxiliary bishop of San Antonio, formerly auxiliary bishop of Detroit, where these arms were first borne. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Cepeda or the Archdiocese of San Antonio."
 
 - id: janak
+  category: "people"
   name: "Gary Wayne Janak"
   name_es: "Gary Wayne Janak, Obispo Auxiliar de San Antonio"
   image: "assets/arms/janak.svg"
@@ -84,6 +94,7 @@
   notes: "The personal arms of Gary Wayne Janak, auxiliary bishop of San Antonio since 2021. His motto is Solomon's prayer (1 Kings 3:9). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Janak or the Archdiocese of San Antonio."
 
 - id: diocese-of-west-texas
+  category: "institutions"
   name: "Episcopal Diocese of West Texas"
   image: "assets/arms/west-texas.png"
   image_credit: "The arms of the Diocese as depicted on Wikipedia: the quartered shield with the Alamo, the Lone Star, the winged lion of Saint Mark and the winged ox of Saint Luke, the six-flags escutcheon at the centre, a bishop's mitre above and the motto scroll below. A non-free depiction (© the Episcopal Diocese of West Texas), shown here for identification."
@@ -92,6 +103,7 @@
   notes: "The Episcopal diocese formed in 1874 as the Missionary District of Western Texas and erected a diocese in 1904; its see city is San Antonio and its territory includes Bexar County. Its shield was designed by the Reverend Louis A. Parker and adopted in 1927: the Alamo, cradle of Texas liberty; the star, for the Lone Star of Texas and the star of Bethlehem; the winged lion of Saint Mark; and the winged ox of Saint Luke; the six flags of the central escutcheon are the six flags over Texas, the Church's banner the seventh. The depiction shown is the diocese's arms as published; the College's own standard rendering may replace it in time. Recorded for identification; this entry implies no affiliation with, and no endorsement by, the Diocese of West Texas."
 
 - id: order-of-the-alamo
+  category: "institutions"
   name: "Order of the Alamo"
   name_es: "Orden del Álamo"
   image: "assets/arms/order-of-the-alamo.png"
@@ -100,6 +112,7 @@
   notes: "Founded in 1909 by John B. Carrington and incorporated in 1915, the Order chooses the Queen of Fiesta and her court — a princess and twenty-four duchesses — and stages the Coronation of the Queen, one of the oldest ceremonies of Fiesta. Its charter purpose is to educate in the history of the independence of Texas and to perpetuate the memory of the Battle of San Jacinto. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
 
 - id: texas-cavaliers
+  category: "institutions"
   name: "Texas Cavaliers"
   image: "assets/arms/texas-cavaliers.svg"
   image_alt: "Badge of the Texas Cavaliers"
@@ -107,6 +120,7 @@
   notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon; the device shown is their organizational badge, not a coat of arms, recorded here for identification. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
 
 - id: san-antonio-german-club
+  category: "institutions"
   name: "San Antonio German Club"
   blazon: "Per bend sinister Gules and Argent: in the Gules a crescent and a mullet Argent; in the Argent a lyre Gules. The shield is flanked by two palm trees, and below it a scroll is inscribed SAN ANTONIO GERMAN CLUB. (Blazon rendered descriptively from the club's depiction.)"
   image: "assets/arms/san-antonio-german-club.png"
@@ -114,6 +128,7 @@
   notes: "The arms of the German club of San Antonio, from the city's German-Texan community: the crescent and star on the red field, and a lyre in base for German song, the whole flanked by two palm trees — a Texas flourish on a German shield. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the club."
 
 - id: canary-islands-descendants
+  category: "institutions"
   name: "Canary Islands Descendants Association"
   image: "assets/arms/cida-seal.jpg"
   image_alt: "Seal of the Canary Islands Descendants Association"
@@ -123,11 +138,13 @@
   notes: "The association of the descendants of the Canary Island families — sixteen families in all — who came to San Fernando de Béxar on 9 March 1731 and founded the Villa de San Fernando, the first regularly organized civil government in Texas; at its first election, 1 August 1731, Juan Leal Goraz was chosen alcalde. Before their departure, the Crown had granted the settler families the status of hidalgos. The association's seal adopts the arms of the founders' homeland entire, and dates itself by the landing. The founders' church, San Fernando, raised on the plaza laid out with the villa, is today the cathedral of the Archdiocese of San Antonio, entered above. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Association."
 
 - id: isleno-founders
+  category: "institutions"
   name: "The Isleño Founders of San Fernando de Béxar"
   name_es: "Los Fundadores Isleños de San Fernando de Béxar"
   notes: "The sixteen Canary Island families who founded the Villa de San Fernando in 1731, entered here as a body, for the honour that is documented for them: by the Real Despacho of 14 February 1729 the Crown granted the settler families the status of hidalgos — hijosdalgo de solar conocido — a rank their descendants in Bexar have kept in memory ever since. No arms are documented for any founding family: no grant, certification, or armorial entry ties a coat to any of their San Antonio lines, and this Roll records none for them. The achievement printed for one family — Travieso, on the cover of The Travieso Family Papers (Los Bexareños, 2008): Gules, a fleur-de-lis Or upon an ermine base, with helm, mantling, and a crest of plumes — is a modern assumption, not a record; a Spanish surname blazon for Travieso (Gules, a mount Argent topped by a fleur-de-lis Or) does stand in the armorials, but it belongs to peninsular lines and proves nothing for this one. The arms of the founders' homeland are borne in Bexar today in the seal of the Canary Islands Descendants Association, entered above."
 
 - id: los-bexarenos
+  category: "institutions"
   name: "Los Bexareños Genealogical and Historical Society"
   image: "assets/arms/los-bexarenos.png"
   image_alt: "Emblem of Los Bexareños"
@@ -137,6 +154,7 @@
   notes: "The genealogical and historical society of Hispanic Bexar, founded by Gloria V. Cadena in 1983 and chartered as a non-profit in 1987; its journal has appeared since 1983, now as the annual Yearly Register of translated censuses, marriages, baptisms, burials and wills. Among its publications is the Founding Canary Island Family papers series, including The Travieso Family Papers (2008), for the seventh founding family — the Isleño founders entered with the Canary Islands Descendants Association above. The hands and roots below the shield are the Society's motto pictured: history held up by the families who descend from it. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Society."
 
 - id: buckner-fanning
+  category: "institutions"
   name: "Buckner Fanning School at Mission Springs"
   image: "assets/arms/buckner-fanning.png"
   image_credit: "The crest of the Buckner Fanning School at Mission Springs (© the School), as it stands on the school's entrance sign, shown for identification."
@@ -144,6 +162,7 @@
   notes: "A private Christian school at Mission Springs, on the city's north side, founded in 1998 and opened in 1999 by the Reverend Dr. Buckner Fanning (1926–2016), pastor of Trinity Baptist Church from 1959 to 2002. The letters in the third quarter are the school's own — S M S, the School at Mission Springs — and the spring in the first quarter is the spring of Mission Springs itself. Since 2024 the school has branded with a successor shield — Or, a tree Argent within a bordure Azure, likewise crowned — but the quarterly crest still stands on the entrance sign, and it is that crest which is recorded here. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the School."
 
 - id: mcatee
+  category: "people"
   name: "Robert McAtee"
   blazon: "Gules, on a fess Or a closet compony Argent and Sable, in chief four fusils in fess Or."
   crest: "On a torse Or and Gules, six arrows, three in bend and three in bend sinister, points upwards, fretted Or, entwined by a serpent erect in pale wavy Gules."
