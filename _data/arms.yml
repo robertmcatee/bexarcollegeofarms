@@ -30,6 +30,15 @@
   image_credit: "The city's arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
   notes: "The arms of the City of San Antonio as published. The tau is the cross of Saint Anthony of Padua, the city's patron; the sinister side bears the Lone Star above the Alamo. The motto, Libertatis Cunabula — Cradle of Liberty — is the city's own, carried also on its seal (designed 1925 by Johannes C. Scholze; designated the official seal in 1981)."
 
+- id: utsa
+  name: "University of Texas at San Antonio"
+  name_es: "Universidad de Texas en San Antonio"
+  image: "assets/arms/utsa-crest.svg"
+  image_alt: "Crest of the University of Texas at San Antonio"
+  image_credit: "The crest of UT San Antonio (depiction via Wikimedia Commons, public domain as a simple logo; the crest itself is a trademark of the University), shown for identification."
+  blazon: "Within an annulet inscribed THE UNIVERSITY OF TEXAS AT SAN ANTONIO, a shield Orange cut by three grooves embowed Argent, the base tier ending in an upward point. (Blazon rendered descriptively from the published depiction; no official blazon exists.)"
+  notes: "The crest of the city's public research university, founded 1969. The circular crest was adopted in 2025 for the unified UT San Antonio, formed on 1 September 2025 by the merger of the University of Texas at San Antonio with the University of Texas Health Science Center at San Antonio. The University's own account of the mark: its stacked tiers are the crested waves of the San Antonio River Basin — the confluence of rivers, and of ideas — its base point an upward arrow of momentum and aspiration, and its shield an emblem of trust, academic rigor and protection. The crest is a modern trademark device, not a grant of arms. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the University."
+
 - id: archdiocese-of-san-antonio
   name: "Archdiocese of San Antonio"
   name_es: "Arquidiócesis de San Antonio"
@@ -103,6 +112,31 @@
   image: "assets/arms/san-antonio-german-club.png"
   image_credit: "The club's arms as used by the club, with its palm-tree supporters and name scroll."
   notes: "The arms of the German club of San Antonio, from the city's German-Texan community: the crescent and star on the red field, and a lyre in base for German song, the whole flanked by two palm trees — a Texas flourish on a German shield. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the club."
+
+- id: canary-islands-descendants
+  name: "Canary Islands Descendants Association"
+  image: "assets/arms/cida-seal.jpg"
+  image_alt: "Seal of the Canary Islands Descendants Association"
+  image_credit: "Seal of the Canary Islands Descendants Association (© the Association), shown for identification."
+  blazon: "The seal bears at its centre the arms of the Canary Islands: Azure, seven islands Argent, well ordered, two, two, two and one in base; the shield ensigned with the royal crown of Spain, supported by two dogs proper, collared, and beneath a scroll Argent inscribed OCÉANO. The seal's legend reads CANARY ISLANDS DESCENDANTS ASSOCIATION, SAN ANTONIO, TEXAS, with the date MARCH 9, 1731 below the shield. (Blazon of the Islands' arms as set by the Statute of Autonomy of the Canary Islands, 1982.)"
+  motto: "Océano"
+  notes: "The association of the descendants of the Canary Island families — sixteen families in all — who came to San Fernando de Béxar on 9 March 1731 and founded the Villa de San Fernando, the first regularly organized civil government in Texas; at its first election, 1 August 1731, Juan Leal Goraz was chosen alcalde. Before their departure, the Crown had granted the settler families the status of hidalgos. The association's seal adopts the arms of the founders' homeland entire, and dates itself by the landing. The founders' church, San Fernando, raised on the plaza laid out with the villa, is today the cathedral of the Archdiocese of San Antonio, entered above. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Association."
+
+- id: los-bexarenos
+  name: "Los Bexareños Genealogical and Historical Society"
+  image: "assets/arms/los-bexarenos.png"
+  image_alt: "Emblem of Los Bexareños"
+  image_credit: "Emblem of Los Bexareños Genealogical and Historical Society (© the Society), shown for identification."
+  blazon: "On a shield-shaped field Gules, a shield per fess: in chief per pale, dexter quarterly Castile and León, sinister Argent the Mexican national emblem rendered Or; in base Azure, a mullet Or between two laurel branches Argent. The shield encircled by a collar of interlaced links Or, in the manner of the collar of the Golden Fleece, and ensigned with a Spanish royal crown; across the top a ribbon Azure inscribed LOS BEXAREÑOS; below, two hands upholding the shield, their wrists merging into the roots of a tree. (Blazon rendered descriptively from the Society's emblem; no official blazon is published.)"
+  motto: "Our History, Our Roots, Our Family / Nuestra Historia, Nuestras Raíces, Nuestra Familia"
+  notes: "The genealogical and historical society of Hispanic Bexar, founded by Gloria V. Cadena in 1983 and chartered as a non-profit in 1987; its journal has appeared since 1983, now as the annual Yearly Register of translated censuses, marriages, baptisms, burials and wills. Among its publications is the Founding Canary Island Family papers series, including The Travieso Family Papers (2008), for the seventh founding family — the Isleño founders entered with the Canary Islands Descendants Association above. The hands and roots below the shield are the Society's motto pictured: history held up by the families who descend from it. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Society."
+
+- id: buckner-fanning
+  name: "Buckner Fanning School at Mission Springs"
+  image: "assets/arms/buckner-fanning.png"
+  image_credit: "The crest of the Buckner Fanning School at Mission Springs (© the School), as it stands on the school's entrance sign, shown for identification."
+  blazon: "Quarterly Azure and Or: in the first quarter a spring gushing Argent; in the second a Latin cross Argent; in the third the letters S, M and S interlaced Argent; in the fourth an open book Argent. The shield ensigned with a crown Or. (Blazon rendered descriptively from the school's depiction.)"
+  notes: "A private Christian school at Mission Springs, on the city's north side, founded in 1998 and opened in 1999 by the Reverend Dr. Buckner Fanning (1926–2016), pastor of Trinity Baptist Church from 1959 to 2002. The letters in the third quarter are the school's own — S M S, the School at Mission Springs — and the spring in the first quarter is the spring of Mission Springs itself. Since 2024 the school has branded with a successor shield — Or, a tree Argent within a bordure Azure, likewise crowned — but the quarterly crest still stands on the entrance sign, and it is that crest which is recorded here. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the School."
 
 - id: mcatee
   name: "Robert McAtee"
