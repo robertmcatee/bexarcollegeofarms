@@ -119,6 +119,36 @@
   image_credit: "The Cavaliers' organizational badge as displayed on their own site, texascavaliers.org: a mounted cavalier within a red-bordered shield, a star above, and a scroll below inscribed TEXAS CAVALIERS."
   notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon; the device shown is their organizational badge, not a coat of arms, recorded here for identification. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
 
+- id: 141st-infantry
+  category: "institutions"
+  name: "141st Infantry Regiment"
+  image: "assets/arms/141st-infantry.png"
+  image_credit: "The regiment's coat of arms as drawn by the U.S. Army Institute of Heraldry (public domain)."
+  blazon: "Per pale Argent and Gules, a fleur-de-lis Azure and the badge of the 3d Brigade, 1st Division, 4th Army Corps, during the Spanish-American War, Proper fimbriated of the first; on a chief dancetté of the third a mullet of the fifth. (Blazon of the U.S. Army Institute of Heraldry, quoted verbatim; the arms were approved 5 March 1931.)"
+  crest: "That for the regiments and separate battalions of the Texas Army National Guard: on a wreath of the colors Argent and Gules, a mullet Argent encircled by a garland of live oak and olive Proper."
+  motto: "Remember the Alamo"
+  notes: "The 'First Texas' — the oldest regiment of the Texas Army National Guard, its lineage recognized by the U.S. Army Center of Military History from 18 February 1823, and its senior company descending from the Washington Guards of 1836. It is a Bexar regiment: the Alamo Rifles of Béxar stand among the companies of its lineage from 1873; its headquarters has been at San Antonio since 1933; and its 1st Battalion — 'Task Force Alamo' — is headquartered in San Antonio today, in the 72nd Infantry Brigade Combat Team of the 36th Infantry Division. The shield's colours and star are those of the flag of the Texas Republic; the fleur-de-lis is for France in the First World War, and the corps badge for the Cuban occupation of 1898. Its colours carry the streamers Republic of Texas, The Alamo, and San Jacinto. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Regiment, the Texas Military Department, or the U.S. Army."
+
+- id: us-army-north
+  category: "institutions"
+  name: "U.S. Army North (Fifth Army)"
+  image: "assets/arms/army-north.svg"
+  image_alt: "Shoulder sleeve insignia of U.S. Army North"
+  image_credit: "Shoulder sleeve insignia of U.S. Army North, as approved by the U.S. Army Institute of Heraldry (public domain)."
+  blazon: "No coat of arms was ever approved for this command; it bore insignia only. Shoulder sleeve insignia, as recorded by the U.S. Army Institute of Heraldry: On a red rectangular background with top corners chamfered at 45°, a silhouette of a mosque in blue charged with a white letter \"A\" above a white number \"5\". Its distinctive unit insignia: a silver Florentine fleur-de-lis garnished with red buds, over its centre a blue mosque tower, with five stars positioned in the form of a \"V\"."
+  motto: "Strength of the Nation!"
+  notes: "The United States Fifth Army, activated at Oujda, Morocco, on 5 January 1943 under Lieutenant General Mark W. Clark — the first American field army activated overseas — and the army of Salerno, Anzio and the liberation of Rome. Its headquarters came to Fort Sam Houston in June 1971, succeeding the Fourth Army in the Quadrangle, and San Antonio was its home for the rest of its life. As U.S. Army North it was the Army component of U.S. Northern Command, charged with homeland defense and defense support of civil authorities. The mosque in its insignia is Morocco, where it was born; the fleur-de-lis of its distinctive insignia is Florence, for its service in Italy, and its five stars are its five Italian campaigns. The command cased its colors at Fort Sam Houston on 15 July 2026, its missions passing to the U.S. Army Western Hemisphere Command. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the United States Army."
+
+- id: us-army-south
+  category: "institutions"
+  name: "U.S. Army South (Sixth Army)"
+  image: "assets/arms/army-south-dui.gif"
+  image_alt: "Distinctive unit insignia of U.S. Army South"
+  image_credit: "Distinctive unit insignia of U.S. Army South, as approved by the U.S. Army Institute of Heraldry (public domain)."
+  blazon: "No coat of arms was ever approved for this command; it bore insignia only. Shoulder sleeve insignia, as recorded by the U.S. Army Institute of Heraldry: on an ultramarine blue disc, a white galleon with a red cross on the sail, riding on white wave lines. Its distinctive unit insignia: a rectangle arced at top and bottom divided saltirewise gold and red and bearing a stylized blue \"S\"; overall a white Spanish galleon charged on the upper fore-topsail with a red cross formy, all enclosed at the bottom by a gold scroll inscribed \"DEFENSE AND FRATERNITY\"."
+  motto: "Defense and Fraternity"
+  notes: "The Army service component command of U.S. Southern Command — the Army of the Panama Canal, of Operation Just Cause, and of partnership with the armies of Latin America and the Caribbean. Its headquarters came to Fort Sam Houston in 2002–03, into the old Brooke Army Medical Center building, and San Antonio was its home for the rest of its life. In 2008 it was consolidated with the Sixth United States Army, the Pacific army of New Guinea, Leyte and Luzon, and by special exception kept its own Spanish galleon — the ship of the Caribbean in the days of the Spanish regime, its sail bearing the cross of Columbus — a device with a natural resonance in Béxar. The command cased its colors at Trinity University on 29 May 2026, its missions passing to the U.S. Army Western Hemisphere Command. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the United States Army."
+
 - id: san-antonio-german-club
   category: "institutions"
   name: "San Antonio German Club"
