@@ -9,7 +9,6 @@
   .rule { border: 0; border-top: 2px solid #8a6d2f; margin: 1.5em 0; }
   .entry { margin: 2.5em 0; }
   .entry img { display: block; margin: 0 auto; max-height: 340px; }
-  .name-es { color: #555; font-style: italic; }
   .blazon { margin-top: 1em; }
   .label { font-variant: small-caps; letter-spacing: .06em; color: #8a6d2f; }
   .credit { font-size: .85em; color: #666; text-align: center; }
@@ -41,7 +40,7 @@ This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of 
 
 {% for arm in site.data.arms %}
 <div class="entry" data-category="{{ arm.category }}">
-  <h2>{{ arm.name }}{% if arm.name_es %} <span class="name-es">· {{ arm.name_es }}</span>{% endif %}</h2>
+  <h2>{{ arm.name }}</h2>
   {% if arm.image %}<img src="{{ arm.image | relative_url }}" alt="{{ arm.image_alt | default: 'Arms of ' | append: arm.name }}">{% endif %}
   {% if arm.image_credit %}<p class="credit">{{ arm.image_credit }}</p>{% endif %}
   {% if arm.blazon %}<p class="blazon"><span class="label">Blazon</span> — {{ arm.blazon }}</p>{% endif %}
