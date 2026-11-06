@@ -1,12 +1,12 @@
 # College of Arms of Bexar · Colegio de Armas de Béxar
 
-The published Roll of Arms of Bexar County, Texas — *Registrum Armorum San Antonio de Béxar* — kept by the College of Arms of Bexar and published on GitHub Pages.
+The published Roll of Arms of Bexar County, Texas — *Registrum Armorum San Antonio de Béxar* — kept by the College of Arms of Bexar and published on GitHub Pages at [robertmcatee.net/bexarcollegeofarms](https://robertmcatee.net/bexarcollegeofarms/).
 
-**Status: stub.** The Roll is opened with its first two entries, the arms of Bexar County and of the City of San Antonio, using their official arms as published as placeholder images. Entries in the College's own standard rendering, and the remaining entries of the Roll (the five missions, the historic lineages, and the rest of the county's armory), are to follow.
+**Status: live.** The Roll stands at thirty-two entries in six categories — Government (3), Military (7), Institutions (6), Ecclesiastical (4), Academic (1), and People (11) — recording the arms of the county's governments, armed forces, institutions, churches, and people, each shown by its heraldic elements alone. Two entries are recorded in words only, by design: the Army Medical Department Regiment, whose authorized insignia is an emblem rather than arms, and the Isleño Founders of San Fernando de Béxar, for whom no arms are documented — their entry rests on the hidalguía granted the founding families in 1729 and names all sixteen families of the Cuautitlán list.
 
 ## How the Roll is kept
 
-The site renders from one data file, `_data/arms.yml` — one record per entry (name in English and Spanish, blazon, motto, notes) — with one image per entry in `assets/arms/`. To add an entry, add a record and an image; no page code changes. English first, Spanish in line, throughout.
+The site renders from one data file, `_data/arms.yml` — one record per entry (name, blazon, crest, motto, notes) — with one image per pictured entry in `assets/arms/`. To add an entry, add a record and an image; no page code changes. English first, Spanish in line, throughout.
 
 ## Naming
 
@@ -17,4 +17,4 @@ The site renders from one data file, `_data/arms.yml` — one record per entry (
 
 ## Credits
 
-The two placeholder depictions are the armigers' own official arms as published, via Wikimedia Commons: "Coat of arms of Bexar County, Texas.svg" and "Coat of arms of San Antonio de Bexar, Texas.svg".
+Depictions are the bearers' own arms as published, or emblazonments made for the Roll where no authoritative rendering is published; each entry carries its own credit line in the Roll itself.
