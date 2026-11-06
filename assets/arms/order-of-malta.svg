@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Coat_of_arms_of_the_Knights_Hospitaller.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg2"
+   version="1.1"
+   height="478.32"
+   width="409.65">
+  <defs
+     id="defs2442" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g8"
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="246.1028"
+     inkscape:cx="126.86143"
+     inkscape:zoom="0.69776383"
+     showgrid="false"
+     id="namedview2440"
+     inkscape:window-height="793"
+     inkscape:window-width="1251"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g6"
+     transform="translate(-552.32 -147.49)">
+    <g
+       id="g8"
+       transform="translate(217.94 365.75)">
+      <path
+         id="path2436-5"
+         d="m 336.16329,-217.26399 c -0.73654,46.42 -0.9391,92.845 -0.66879,139.269997 0.12454,21.389 0.34947,42.777 0.66879,64.164 0.97541,65.328997 4.2342,116.309993 33.501,156.169993 35.25499,48.01901 93.98799,82.67101 169.54,116.72001 75.551,-34.045 134.28,-68.698 169.53999,-116.72001 29.267,-39.863 32.526,-90.842996 33.501,-156.169993 1.0124,-67.806 1.0759,-135.619997 0,-203.429997 H 336.16529 z"
+         inkscape:connector-curvature="0"
+         style="fill:#c00616;stroke:none;stroke-width:1;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect6198"
+         d="m 498.23999,-217.40257 81.93,0 0,456.96258 -40.83189,19.2544 -41.09811,-19.2544 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect6198-0"
+         d="m -44.060009,338.38 81.93,-3 0,407.21812 -81.93,-3.21812 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <path
+         id="path2436"
+         d="m 336.16331,-217.264 c -0.73654,46.42 -0.9391,92.845 -0.66879,139.269998 0.12454,21.389 0.34947,42.777 0.66879,64.164 0.97541,65.329 4.2342,116.310002 33.501,156.170002 35.255,48.019 93.988,82.671 169.54,116.72 75.551,-34.045 134.28,-68.698 169.54,-116.72 29.267,-39.863 32.526,-90.843002 33.501,-156.170002 1.0124,-67.806 1.0759,-135.619998 0,-203.429998 h -406.08 z"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#554400;stroke-width:2" />
+    </g>
+  </g>
+</svg>
