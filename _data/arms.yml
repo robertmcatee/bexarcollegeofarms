@@ -34,7 +34,7 @@
   notes: "The arms of the City of San Antonio as published. The tau is the cross of Saint Anthony of Padua, the city's patron; the sinister side bears the Lone Star above the Alamo. The motto, Libertatis Cunabula — Cradle of Liberty — is the city's own, carried also on its seal (designed 1925 by Johannes C. Scholze; designated the official seal in 1981)."
 
 - id: utsa
-  category: "institutions"
+  category: "academic"
   name: "University of Texas at San Antonio"
   image: "assets/arms/utsa-escutcheon.png"
   image_alt: "Escutcheon of the University of Texas at San Antonio"
@@ -43,7 +43,7 @@
   notes: "The crest of the city's public research university, founded 1969. The circular crest was adopted in 2025 for the unified UT San Antonio, formed on 1 September 2025 by the merger of the University of Texas at San Antonio with the University of Texas Health Science Center at San Antonio. The University's own account of the mark: its stacked tiers are the crested waves of the San Antonio River Basin — the confluence of rivers, and of ideas — its base point an upward arrow of momentum and aspiration, and its shield an emblem of trust, academic rigor and protection. The crest is a modern trademark device, not a grant of arms. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the University."
 
 - id: archdiocese-of-san-antonio
-  category: "institutions"
+  category: "ecclesiastical"
   name: "Archdiocese of San Antonio"
   blazon: "Azure, on a cross quadrate in the centre Argent a Tau-cross of the first; in dexter chief a star of the second. The shield is ensigned with a mitre. (Blazon as recorded in Heuser, Some Recent Episcopal Arms, The American Ecclesiastical Review, 1916.)"
   image: "assets/arms/archdiocese-of-san-antonio.svg"
@@ -133,7 +133,7 @@
   notes: "The personal arms of Gary Wayne Janak, auxiliary bishop of San Antonio since 2021. His motto is Solomon's prayer (1 Kings 3:9). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Bishop Janak or the Archdiocese of San Antonio."
 
 - id: diocese-of-west-texas
-  category: "institutions"
+  category: "ecclesiastical"
   name: "Episcopal Diocese of West Texas"
   image: "assets/arms/west-texas.png"
   image_credit: "The arms of the Diocese as depicted on Wikipedia: the quartered shield with the Alamo, the Lone Star, the winged lion of Saint Mark and the winged ox of Saint Luke, the six-flags escutcheon at the centre, a bishop's mitre above and the motto scroll below. A non-free depiction (© the Episcopal Diocese of West Texas), shown here for identification."
@@ -151,7 +151,7 @@
   notes: "Founded in 1909 by John B. Carrington — the Order's own website gives its incorporation as 1912; other accounts give 1915 — the Order is, in its own words, a private club for men and women dedicated to the preservation of the Alamo and to the collection of materials relating to Texas history. Each April it stages the Coronation of the Queen of Fiesta at the Majestic Theatre, one of the oldest ceremonies of Fiesta; the Queen's court comprises a princess and twenty-four duchesses. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
 
 - id: holy-sepulchre
-  category: "institutions"
+  category: "ecclesiastical"
   name: "Equestrian Order of the Holy Sepulchre of Jerusalem"
   image: "assets/arms/holy-sepulchre.svg"
   image_credit: "The arms of the Order in their full achievement — the red Jerusalem cross on its silver shield, a gold helmet with the Crown of Thorns above, two angels in red dalmatics as supporters, and the motto on its scroll below — as depicted on Wikimedia Commons (depiction by Mathieu Chaine, CC BY-SA)."
@@ -160,7 +160,7 @@
   notes: "A Catholic order of knighthood under the protection of the Holy See, charged with supporting the Christian presence in the Holy Land. Its Southwestern Lieutenancy — covering Texas, Oklahoma, Arkansas and New Mexico — keeps an Archdiocese of San Antonio Section, whose representatives are Sir David and Dame Janet Pollock; San Antonio is typically the lieutenancy's second-largest city contingent after Houston, and the lieutenancy's annual investiture weekend was held in San Antonio on 5–7 September 2025, with the Investiture Mass at San Fernando Cathedral. In the full achievement, two white standards bearing the red cross flank the helmet, and the two angel supporters stand for the Order's crusading and pilgrim natures. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Equestrian Order of the Holy Sepulchre of Jerusalem."
 
 - id: order-of-malta
-  category: "institutions"
+  category: "ecclesiastical"
   name: "Order of Malta"
   image: "assets/arms/order-of-malta.svg"
   image_credit: "The shield of the Order — a plain white cross on red — as depicted on Wikimedia Commons (depiction by Constantine Plakidas)."
