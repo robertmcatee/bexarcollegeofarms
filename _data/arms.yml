@@ -111,6 +111,25 @@
   image_credit: "The Order's device as used by the Order, in the Order's purple: two griffins supporting a laurel wreath around a star, a crown above, and the Order's name on a scroll below (artwork via the Fiesta San Antonio Commission)."
   notes: "Founded in 1909 by John B. Carrington and incorporated in 1915, the Order chooses the Queen of Fiesta and her court — a princess and twenty-four duchesses — and stages the Coronation of the Queen, one of the oldest ceremonies of Fiesta. Its charter purpose is to educate in the history of the independence of Texas and to perpetuate the memory of the Battle of San Jacinto. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
 
+- id: holy-sepulchre
+  category: "institutions"
+  name: "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  name_es: "Orden Ecuestre del Santo Sepulcro de Jerusalén"
+  image: "assets/arms/holy-sepulchre.svg"
+  image_credit: "The arms of the Order in their full achievement — the red Jerusalem cross on its silver shield, a gold helmet with the Crown of Thorns above, two angels in red dalmatics as supporters, and the motto on its scroll below — as depicted on Wikimedia Commons (depiction by Mathieu Chaine, CC BY-SA)."
+  blazon: "Argent, a cross potent between four crosslets Gules. (The arms attributed to the Latin Kingdom of Jerusalem, borne by the Order with the Jerusalem cross enamelled in red — the colour of blood, for the five wounds of Christ — as the Order's own accounts of its arms describe them.)"
+  motto: "Deus lo vult"
+  notes: "A Catholic order of knighthood under the protection of the Holy See, charged with supporting the Christian presence in the Holy Land. Its Southwestern Lieutenancy — covering Texas, Oklahoma, Arkansas and New Mexico — keeps an Archdiocese of San Antonio Section, whose representatives are Sir David and Dame Janet Pollock; San Antonio is typically the lieutenancy's second-largest city contingent after Houston, and the lieutenancy's annual investiture weekend was held in San Antonio on 5–7 September 2025, with the Investiture Mass at San Fernando Cathedral. In the full achievement, two white standards bearing the red cross flank the helmet, and the two angel supporters stand for the Order's crusading and pilgrim natures. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Equestrian Order of the Holy Sepulchre of Jerusalem."
+
+- id: order-of-malta
+  category: "institutions"
+  name: "Order of Malta"
+  name_es: "Orden de Malta"
+  image: "assets/arms/order-of-malta.svg"
+  image_credit: "The shield of the Order — a plain white cross on red — as depicted on Wikimedia Commons (depiction by Constantine Plakidas)."
+  blazon: "Gules, a cross Argent. (The plain white Latin cross on a red field, granted to the Knights Hospitaller in 1130 to distinguish them from the Templars. The Order's eight-pointed white cross is its badge, borne among other places on the flag of its works; it is not the shield.)"
+  notes: "The Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta — the Knights Hospitaller, recognised in 1113, sovereign in Rhodes and afterwards in Malta, and today a sovereign subject of international law headquartered in Rome, devoted to the care of the sick and the poor. In the United States, its Federal Association keeps three Texas regions, of which one is the joint Austin/San Antonio Region — a shared regional presence across the two cities, recorded here exactly as such, not as a San Antonio house. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Sovereign Military Order of Malta."
+
 - id: texas-cavaliers
   category: "institutions"
   name: "Texas Cavaliers"
@@ -148,6 +167,39 @@
   blazon: "No coat of arms was ever approved for this command; it bore insignia only. Shoulder sleeve insignia, as recorded by the U.S. Army Institute of Heraldry: on an ultramarine blue disc, a white galleon with a red cross on the sail, riding on white wave lines. Its distinctive unit insignia: a rectangle arced at top and bottom divided saltirewise gold and red and bearing a stylized blue \"S\"; overall a white Spanish galleon charged on the upper fore-topsail with a red cross formy, all enclosed at the bottom by a gold scroll inscribed \"DEFENSE AND FRATERNITY\"."
   motto: "Defense and Fraternity"
   notes: "The Army service component command of U.S. Southern Command — the Army of the Panama Canal, of Operation Just Cause, and of partnership with the armies of Latin America and the Caribbean. Its headquarters came to Fort Sam Houston in 2002–03, into the old Brooke Army Medical Center building, and San Antonio was its home for the rest of its life. In 2008 it was consolidated with the Sixth United States Army, the Pacific army of New Guinea, Leyte and Luzon, and by special exception kept its own Spanish galleon — the ship of the Caribbean in the days of the Spanish regime, its sail bearing the cross of Columbus — a device with a natural resonance in Béxar. The command cased its colors at Trinity University on 29 May 2026, its missions passing to the U.S. Army Western Hemisphere Command. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the United States Army."
+
+- id: amedd-regiment
+  category: "military"
+  name: "Army Medical Department Regiment"
+  blazon: "Per pale; to dexter, paly of thirteen Gules and Argent, on a chief Azure, twenty mullets in four rows of five each of the second: to sinister, Argent, a staff entwined with a serpent Vert. (Blazon of the U.S. Army Institute of Heraldry, quoted verbatim; the current design was approved 31 October 2014, rescinding the design approved 17 April 1986.)"
+  crest: "From a wreath Argent and Azure, upon a mound Argent (Silver Gray), a cock reguardant Proper. (On the regimental flag the arms are displayed on the breast of a displayed eagle, the crest above the eagle's head; the flag's background is maroon and its fringe white.)"
+  motto: "Experientia et Progressus"
+  notes: "The regiment of all Army medicine — the AMEDD. Its arms rest on a device probably first used in 1818, the year Congress made the Medical Department permanent: the twenty stars are the twenty states of 1818 and the stripes are the flag's; the green staff entwined with a serpent is the rod of Aesculapius, green being the Medical Corps colour of the nineteenth century, and the cock of the crest is Aesculapius's bird. Devised in their present line about 1863 under Surgeon General William Alexander Hammond, they are among the oldest regimental emblems in the Army. Fort Sam Houston is the Regiment's home by Headquarters, Department of the Army General Order 27 of 30 June 1986, and the Regiment Office stands at Joint Base San Antonio–Fort Sam Houston today. The motto is 'Experience and Progress.' The current arms date from 2014; the Institute's published drawing still shows the crest that design superseded, so this entry stands on the recorded blazon and crest until the College's own depiction is made. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Regiment or the United States Army."
+
+- id: aetc
+  category: "military"
+  name: "Air Education and Training Command"
+  image: "assets/arms/aetc.svg"
+  image_credit: "The command's emblem as approved through Air Force heraldry (public domain)."
+  blazon: "Azure, in front of a pair of stylized wings displayed Or a five-pointed star in flat perspective Argent pierced by a torch of the second flamant Gules, all within a diminished bordure of the second. Attached below the shield, a White scroll edged with a narrow Yellow border and inscribed 'AIR EDUCATION & TRAINING COMMAND' in Blue letters. (Emblem blazon as recorded by the U.S. Army Institute of Heraldry, quoted verbatim.)"
+  crest: "An eagle, a cloud formation, and an heraldic wreath — so AETC Instruction 84-101 describes the crest of the command's coat of arms; the emblem in general use is the coat of arms without the crest."
+  notes: "The Air Force's training command — 'The First Command' — established and activated in January 1942, the oldest major command in the Air Force, with headquarters at Randolph since 1957, today Joint Base San Antonio–Randolph. The device was approved as a shoulder patch on 4 October 1949 and as an emblem on 20 July 1953 for the Air Training Command, and was retained when the command was redesignated Air Education and Training Command on 1 July 1993. Every Airman begins in this command, and much of that training is in Bexar County. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the United States Air Force."
+
+- id: 37th-training-wing
+  category: "military"
+  name: "37th Training Wing"
+  image: "assets/arms/37th-training-wing.svg"
+  image_credit: "The wing's emblem as approved through Air Force heraldry (public domain)."
+  blazon: "Azure, a saltire within a diminished border Or. Attached below the shield, a White scroll edged with a narrow Yellow border and inscribed '37 TRAINING WING' in Blue letters. (Emblem blazon of the Air Force Historical Research Agency, quoted verbatim.)"
+  notes: "The host wing at Joint Base San Antonio–Lackland since 1 July 1993 and the largest training wing in the Air Force — the 'Gateway to the Air Force,' conducting all enlisted basic military training. The saltire is the crossroads: the honours of the 37th Pursuit Group, the Second World War 'Defenders of the Crossroads' of the Panama Canal, whose insignia the Air Force authorized the Wing to adopt in 1953. The emblem was approved for the Group on 23 June 1941 and for the Wing on 4 August 1953, reinstated 10 March 1992, and its newest rendition approved 28 March 2013. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the United States Air Force."
+
+- id: 502d-air-base-wing
+  category: "military"
+  name: "502d Air Base Wing"
+  image: "assets/arms/502d-air-base-wing.png"
+  image_credit: "The wing's emblem as approved through Air Force heraldry (public domain)."
+  blazon: "Per pale Azure and Vert a nebulee palewise Or, issuant at nombril a mullet couped Gules, surmounted by a second mullet Argent inner fimbriation of the first; all within a diminished bordure Or. Attached below the shield, a White scroll edged with a narrow Yellow border and inscribed '502D AIR BASE WING' in Blue letters. (Emblem blazon of the Air Force Historical Research Agency, quoted verbatim; the U.S. Army Institute of Heraldry carries the same wording for the wing's groups.)"
+  notes: "The host wing for the whole of Joint Base San Antonio, activated at Fort Sam Houston on 1 August 2009 and headquartered there, beside the Quadrangle; it took host responsibility at Lackland and Randolph in 2010. The design's roots are in the wing's first official emblem, approved 8 July 1954: the divided shield is earth and sky, and the lone star — its three visible points the Air Force, the Army and the Navy in joint venture — pictures the joint-base mission. The recorded blazon divides the shield per pale, but the wing's official drawing — the same artwork it bears on its headquarters sign — divides it per fess nebuly, blue over green; the inconsistency stands in the official record itself, and both text and drawing are recorded here as they stand. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the United States Air Force."
 
 - id: san-antonio-german-club
   category: "institutions"
