@@ -1,40 +1,45 @@
 ---
 ---
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap" rel="stylesheet">
 <style>
-  body { font-family: Palatino, "Palatino Linotype", Georgia, serif; max-width: 44em; margin: 2em auto; padding: 0 1em; line-height: 1.5; color: #1a1a1a; }
-  h1, h2 { text-align: center; letter-spacing: .04em; }
-  h1 { margin-bottom: 0; }
-  .latin { text-align: center; font-style: italic; margin-top: .2em; color: #555; }
-  .rule { border: 0; border-top: 2px solid #8a6d2f; margin: 1.5em 0; }
+  body { font-family: "Cormorant Garamond", "Cormorant", Palatino, Georgia, serif; font-size: 20px; max-width: 44em; margin: 2em auto; padding: 0 1em; line-height: 1.5; color: #1a1a1a; background: #fdfcf8; }
+  .masthead { text-align: center; }
+  .masthead h1 { font-size: 2em; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; margin: 0; line-height: 1.2; text-align: center; }
+  .masthead .spanish { text-transform: uppercase; letter-spacing: .32em; font-size: .72em; color: #6b6252; margin-top: .7em; }
+  .masthead .registrum { font-style: italic; font-size: 1.18em; color: #9e1b1b; margin-top: .45em; }
+  .rule { border: 0; border-top: 2px solid #8a6d2f; margin: 1.4em 0; }
+  h2 { text-align: center; letter-spacing: .04em; font-weight: 600; }
   .entry { margin: 2.5em 0; }
-  .entry img { display: block; margin: 0 auto; max-height: 340px; }
+  .entry img { display: block; margin: 0 auto; max-height: 340px; max-width: 100%; }
   .blazon { margin-top: 1em; }
-  .label { font-variant: small-caps; letter-spacing: .06em; color: #8a6d2f; }
+  .label { font-variant: small-caps; letter-spacing: .06em; color: #8a6d2f; font-weight: 600; }
   .credit { font-size: .85em; color: #666; text-align: center; }
-  .stub { text-align: center; color: #666; font-style: italic; }
   .filters { text-align: center; margin: 1.5em 0 .5em; }
-  .filters button { font-family: inherit; font-variant: small-caps; letter-spacing: .06em; font-size: 1em; color: #8a6d2f; background: none; border: 1px solid #8a6d2f; border-radius: 2em; padding: .25em 1em; margin: 0 .25em; cursor: pointer; }
+  .filters button { font-family: inherit; font-variant: small-caps; letter-spacing: .06em; font-size: 1em; color: #8a6d2f; background: none; border: 1px solid #8a6d2f; border-radius: 2em; padding: .25em 1em; margin: 0 .25em .4em; cursor: pointer; }
   .filters button:hover { background: #f3ecd9; }
   .filters button.active { background: #8a6d2f; color: #fff; }
 </style>
 
-# College of Arms of Bexar
-<p class="latin">Colegio de Armas de Béxar</p>
-
-<p class="latin">Registrum Armorum San Antonio de Béxar</p>
+<div class="masthead">
+  <h1>College of Arms of Bexar</h1>
+  <div class="spanish">Colegio de Armas de Béxar</div>
+  <div class="registrum">Registrum Armorum San Antonio de Béxar</div>
+</div>
 
 <hr class="rule">
 
-This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of Bexar. The Roll is rendered from a single data file: one record per entry — name, category, blazon, crest, motto, notes — with one image per entry. Use the filter above the Roll to view it by kind: government, military, institutions, or people. Entries are added by adding a record, never by editing this page.
-
-<p class="stub">The Roll is newly opened. The missions, the lineages, and the rest of the county's armory are to follow.</p>
+<p>The Roll of Arms of Bexar County, Texas, records the arms borne by the governments, military commands, institutions, and persons of this county and its neighbouring country — each entered with its blazon and the authority for it. The College of Arms of Bexar keeps the Roll and admits no entry that is not documented; what is shown is the heraldic element alone, never a seal or a logo in its place.</p>
 
 <div class="filters" role="group" aria-label="Filter the Roll">
   <button type="button" data-filter="all" class="active">All ({{ site.data.arms | size }})</button>
   <button type="button" data-filter="government">Government ({{ site.data.arms | where: "category", "government" | size }})</button>
   <button type="button" data-filter="military">Military ({{ site.data.arms | where: "category", "military" | size }})</button>
   <button type="button" data-filter="institutions">Institutions ({{ site.data.arms | where: "category", "institutions" | size }})</button>
+  <button type="button" data-filter="ecclesiastical">Ecclesiastical ({{ site.data.arms | where: "category", "ecclesiastical" | size }})</button>
+  <button type="button" data-filter="academic">Academic ({{ site.data.arms | where: "category", "academic" | size }})</button>
   <button type="button" data-filter="people">People ({{ site.data.arms | where: "category", "people" | size }})</button>
 </div>
 
