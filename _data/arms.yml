@@ -4,7 +4,7 @@
 #         blazon (shield only), crest (only where the
 #         arms bear one — kept separate from the blazon), motto (omit if
 #         none), image, image_alt (omit to default to "Arms of <name>"),
-#         image_credit, notes. Entry names in English only
+#         image_credit, website (optional), notes. Entry names in English only
 #         (keeper's ruling, 5 November 2026 — no Spanish name lines).
 
 - id: texas
@@ -145,8 +145,9 @@
   name: "Order of the Alamo"
   image: "assets/arms/order-of-the-alamo.png"
   image_alt: "Device of the Order of the Alamo"
-  image_credit: "The Order's device as used by the Order, in the Order's purple: two griffins supporting a laurel wreath around a star, a crown above, and the Order's name on a scroll below (artwork via the Fiesta San Antonio Commission)."
-  notes: "Founded in 1909 by John B. Carrington and incorporated in 1915, the Order chooses the Queen of Fiesta and her court — a princess and twenty-four duchesses — and stages the Coronation of the Queen, one of the oldest ceremonies of Fiesta. Its charter purpose is to educate in the history of the independence of Texas and to perpetuate the memory of the Battle of San Jacinto. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
+  image_credit: "The Order's device as used by the Order, in the Order's purple: two griffins supporting a laurel wreath around a star, a crown above, and the Order's name on a scroll below (artwork via the Fiesta San Antonio Commission; the same device, in the Order's purple, heads the Order's own website)."
+  website: "https://theorderofthealamo.com/"
+  notes: "Founded in 1909 by John B. Carrington — the Order's own website gives its incorporation as 1912; other accounts give 1915 — the Order is, in its own words, a private club for men and women dedicated to the preservation of the Alamo and to the collection of materials relating to Texas history. Each April it stages the Coronation of the Queen of Fiesta at the Majestic Theatre, one of the oldest ceremonies of Fiesta; the Queen's court comprises a princess and twenty-four duchesses. The Order's device is heraldic in form though it bears no shield: two griffins rampant as supporters, upholding a laurel wreath within which is a single star — the Lone Star — a crown above the wreath for the Queen the Order crowns, and below a scroll inscribed THE ORDER OF THE ALAMO. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Order of the Alamo."
 
 - id: holy-sepulchre
   category: "institutions"
