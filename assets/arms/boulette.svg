@@ -1905,7 +1905,8 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <path
+    <g transform="translate(13.72,0)">
+<path
        inkscape:connector-curvature="0"
        id="path6527"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
@@ -2015,10 +2016,7 @@
        id="path6569"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
        d="m -297.80021,960.97774 0,4.928 -9.856,0.4875 0,39.42406 -5.76,0.2849 0,-39.42406 -9.856,0.4875 0,-4.928 25.472,-1.2599" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6571"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-       d="m -291.54221,1005.3686 0,-44.3521 19.904,0 0,4.928 -14.144,0 0,13.76 12.8,0 0,4.8001 -12.8,0 0,15.936 15.168,0 0,4.928 -20.928,0" />
+</g>
+    
   </g>
 </svg>
