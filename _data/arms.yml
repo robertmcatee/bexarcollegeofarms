@@ -1,15 +1,15 @@
 # The Roll's data. One record per entry; the site renders from this file.
 # To add an entry: add a record here and drop its image in assets/arms/.
-# Fields: id, name, name_es, category (government | military | institutions | people),
+# Fields: id, name, category (government | military | institutions | people),
 #         blazon (shield only), crest (only where the
 #         arms bear one — kept separate from the blazon), motto (omit if
 #         none), image, image_alt (omit to default to "Arms of <name>"),
-#         image_credit, notes. English first, Spanish in line.
+#         image_credit, notes. Entry names in English only
+#         (keeper's ruling, 5 November 2026 — no Spanish name lines).
 
 - id: texas
   category: "government"
   name: "State of Texas"
-  name_es: "Estado de Texas"
   image: "assets/arms/texas.png"
   image_credit: "The arms of the State emblazoned by this College from the statutory blazon: the Lone Star on its azure shield, the wreath of live oak and olive borne outside the shield."
   blazon: "\"The state arms are a five-pointed white star, on an azure background, encircled by olive and live oak branches.\" (Texas Government Code § 3101.002(a), carrying forward the Act of the Congress of the Republic of Texas of 25 January 1839.) Emblazoned by this College: Azure, a mullet of five points Argent; the shield encircled by a wreath of live oak (dexter) and olive (sinister) branches, tied below with a ribbon Or."
@@ -18,7 +18,6 @@
 - id: bexar-county
   category: "government"
   name: "Bexar County"
-  name_es: "Condado de Béxar"
   blazon: "Quarterly: first, Argent, a bend Sable, an orle of eight chain links Or overall; second, Azure, Mission San Francisco de la Espada Argent; third, Vert, an eagle displayed Or; fourth, Gules, in chief a mullet and in base a cannon, both Argent. Above the shield, a Spanish ducal coronet; below, a banner inscribed BEXAR."
   image: "assets/arms/bexar-county.svg"
   image_credit: "The county's official arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
@@ -27,7 +26,6 @@
 - id: san-antonio
   category: "government"
   name: "City of San Antonio"
-  name_es: "Ciudad de San Antonio"
   blazon: "Per pale: dexter, Or and Gules over Argent semy of ermine spots Sable, overall a tau cross Azure; sinister, Gules, in chief a mullet Azure and Argent, in base the Alamo Argent. Above the shield, a mural crown Or; below, a banner inscribed LIBERTATIS CUNABULA. (Blazon rendered descriptively from the published depiction; the official blazon is to be confirmed.)"
   motto: "Libertatis Cunabula"
   image: "assets/arms/san-antonio.svg"
@@ -37,7 +35,6 @@
 - id: utsa
   category: "institutions"
   name: "University of Texas at San Antonio"
-  name_es: "Universidad de Texas en San Antonio"
   image: "assets/arms/utsa-crest.svg"
   image_alt: "Crest of the University of Texas at San Antonio"
   image_credit: "The crest of UT San Antonio (depiction via Wikimedia Commons, public domain as a simple logo; the crest itself is a trademark of the University), shown for identification."
@@ -47,7 +44,6 @@
 - id: archdiocese-of-san-antonio
   category: "institutions"
   name: "Archdiocese of San Antonio"
-  name_es: "Arquidiócesis de San Antonio"
   blazon: "Azure, on a cross quadrate in the centre Argent a Tau-cross of the first; in dexter chief a star of the second. The shield is ensigned with a mitre. (Blazon as recorded in Heuser, Some Recent Episcopal Arms, The American Ecclesiastical Review, 1916.)"
   image: "assets/arms/archdiocese-of-san-antonio.svg"
   image_credit: "The arms of the Archdiocese as depicted on Wikimedia Commons (depiction by Linestamp, released into the public domain under CC0)."
@@ -83,7 +79,6 @@
 - id: garcia-siller
   category: "people"
   name: "Gustavo García-Siller"
-  name_es: "Gustavo García-Siller"
   image: "assets/arms/garcia-siller.svg"
   image_credit: "The personal arms of the Archbishop impaled with those of the Archdiocese, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
   blazon: "Impaled: dexter, the arms of the Archdiocese of San Antonio (Azure, on a cross quadrate Argent a Tau-cross of the first, in dexter chief a star of the second); sinister, per fess: in chief Vert, the Holy Spirit in the form of a dove descending Argent within a roundel Or charged with flames Gules; in base, Our Lady of Guadalupe upon a glory Or. Behind the shield an archiepiscopal cross Or; above, a green galero with ten tassels on either side. (Blazon rendered descriptively from the published depiction.)"
@@ -93,7 +88,6 @@
 - id: jose-h-gomez
   category: "people"
   name: "José H. Gómez"
-  name_es: "José Horacio Gómez"
   image: "assets/arms/gomez.svg"
   image_credit: "The personal arms of Archbishop Gómez impaled with those of the Archdiocese of San Antonio, in the emblazonment of this College, drawn from the recorded blazon (no free depiction of his arms exists); the cross, galero and tassels follow SajoR's depiction of Archbishop García-Siller's arms (CC BY-SA 2.5), and the dexter half is the Archdiocese's arms as depicted by Linestamp (CC0)."
   blazon: "Impaled: dexter, the arms of the Archdiocese of San Antonio (Azure, on a cross quadrate Argent a Tau-cross of the first, in dexter chief a star of the second); sinister, the personal arms of Archbishop Gómez, as recorded: Argent, issuant from base a mountain Vert with a sun issuant Gules; to chief dexter a rose blossom in profile of the third, stemmed and leafed of the second, and to chief sinister a star Azure. Behind the shield an archiepiscopal cross Or; above, a green galero with ten tassels on either side."
@@ -103,7 +97,6 @@
 - id: boulette
   category: "people"
   name: "Michael Joseph Boulette"
-  name_es: "Michael Joseph Boulette"
   image: "assets/arms/boulette.svg"
   image_credit: "The personal arms of Bishop Boulette, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
   blazon: "Per saltire Vert and Azure, a saltire Argent between: in chief an open book Or; in the dexter flank a ewer above a basin Or; in the sinister flank a pair of wings conjoined Or; in base a tau cross Or between the letters N and D Or. Behind the shield a processional cross Or; above, a green galero with six tassels on either side. (Blazon rendered descriptively from the published depiction.)"
@@ -113,7 +106,6 @@
 - id: cepeda
   category: "people"
   name: "José Arturo Cepeda Escobedo"
-  name_es: "José Arturo Cepeda Escobedo"
   image: "assets/arms/cepeda.svg"
   image_credit: "The personal arms of Bishop Cepeda, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
   blazon: "Quarterly Sable and Azure: in the first quarter a tortoise Or; in the second a mullet Argent; in the third a ewer and basin with a towel Argent; in the fourth a closed book Or charged with a cross Sable. Behind the shield a processional cross Or; above, a green galero with six tassels on either side. (Blazon rendered descriptively from the published depiction.)"
@@ -123,7 +115,6 @@
 - id: janak
   category: "people"
   name: "Gary Wayne Janak"
-  name_es: "Gary Wayne Janak"
   image: "assets/arms/janak.svg"
   image_credit: "The personal arms of Bishop Janak, as depicted on Wikimedia Commons (depiction by SajoR, CC BY-SA 2.5)."
   blazon: "Azure: in dexter a crescent Argent, in sinister fretty Argent; on a chief Or, the Sacred Heart Gules, crowned with a cross and encircled by a crown of thorns, between a lily Argent above crossed logs and a rose Gules. Behind the shield a processional cross Or; above, a green galero with six tassels on either side. (Blazon rendered descriptively from the published depiction.)"
@@ -142,7 +133,6 @@
 - id: order-of-the-alamo
   category: "institutions"
   name: "Order of the Alamo"
-  name_es: "Orden del Álamo"
   image: "assets/arms/order-of-the-alamo.png"
   image_alt: "Device of the Order of the Alamo"
   image_credit: "The Order's device as used by the Order, in the Order's purple: two griffins supporting a laurel wreath around a star, a crown above, and the Order's name on a scroll below (artwork via the Fiesta San Antonio Commission)."
@@ -151,7 +141,6 @@
 - id: holy-sepulchre
   category: "institutions"
   name: "Equestrian Order of the Holy Sepulchre of Jerusalem"
-  name_es: "Orden Ecuestre del Santo Sepulcro de Jerusalén"
   image: "assets/arms/holy-sepulchre.svg"
   image_credit: "The arms of the Order in their full achievement — the red Jerusalem cross on its silver shield, a gold helmet with the Crown of Thorns above, two angels in red dalmatics as supporters, and the motto on its scroll below — as depicted on Wikimedia Commons (depiction by Mathieu Chaine, CC BY-SA)."
   blazon: "Argent, a cross potent between four crosslets Gules. (The arms attributed to the Latin Kingdom of Jerusalem, borne by the Order with the Jerusalem cross enamelled in red — the colour of blood, for the five wounds of Christ — as the Order's own accounts of its arms describe them.)"
@@ -161,7 +150,6 @@
 - id: order-of-malta
   category: "institutions"
   name: "Order of Malta"
-  name_es: "Orden de Malta"
   image: "assets/arms/order-of-malta.svg"
   image_credit: "The shield of the Order — a plain white cross on red — as depicted on Wikimedia Commons (depiction by Constantine Plakidas)."
   blazon: "Gules, a cross Argent. (The plain white Latin cross on a red field, granted to the Knights Hospitaller in 1130 to distinguish them from the Templars. The Order's eight-pointed white cross is its badge, borne among other places on the flag of its works; it is not the shield.)"
@@ -259,7 +247,6 @@
 - id: isleno-founders
   category: "institutions"
   name: "The Isleño Founders of San Fernando de Béxar"
-  name_es: "Los Fundadores Isleños de San Fernando de Béxar"
   notes: "The sixteen Canary Island families who founded the Villa de San Fernando in 1731, entered here as a body, for the honour that is documented for them: by the Real Despacho of 14 February 1729 the Crown granted the settler families the status of hidalgos — hijosdalgo de solar conocido — a rank their descendants in Bexar have kept in memory ever since. No arms are documented for any founding family: no grant, certification, or armorial entry ties a coat to any of their San Antonio lines, and this Roll records none for them. The achievement printed for one family — Travieso, on the cover of The Travieso Family Papers (Los Bexareños, 2008): Gules, a fleur-de-lis Or upon an ermine base, with helm, mantling, and a crest of plumes — is a modern assumption, not a record; a Spanish surname blazon for Travieso (Gules, a mount Argent topped by a fleur-de-lis Or) does stand in the armorials, but it belongs to peninsular lines and proves nothing for this one. The arms of the founders' homeland are borne in Bexar today in the seal of the Canary Islands Descendants Association, entered above."
 
 - id: los-bexarenos
