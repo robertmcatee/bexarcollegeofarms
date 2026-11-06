@@ -53,6 +53,33 @@
   image_credit: "The arms of the Archdiocese as depicted on Wikimedia Commons (depiction by Linestamp, released into the public domain under CC0)."
   notes: "The Roman Catholic archdiocese erected as the Diocese of San Antonio on 28 August 1874 and raised to an archdiocese on 3 August 1926; its cathedral is San Fernando, and its territory includes Bexar County. The tau is the crutch-cross of Saint Anthony of Padua, the city's patron; the star is the Lone Star of Texas. The same tau appears in the arms of the City of San Antonio in this Roll. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Archdiocese of San Antonio."
 
+- id: lyndon-b-johnson
+  category: "people"
+  name: "Lyndon B. Johnson"
+  image: "assets/arms/lbj.svg"
+  image_credit: "The arms of President Johnson with their crest, as depicted on Wikimedia Commons (depiction by Glasshouse, using elements by Sodacan and Heralder, CC BY-SA 4.0)."
+  blazon: "Azure, on a saltire Gules fimbriated Argent between four eagles displayed, a mullet Or."
+  crest: "On a wreath of the colors, an armed hand Argent supporting an eagle rising Or."
+  motto: "Nobilitatis virtus non stemma character"
+  notes: "The personal arms of Lyndon Baines Johnson (1908–1973), thirty-sixth President of the United States. They were granted to him at his own request on 1 June 1968 by the American College of Heraldry and Arms, and presented to him in the Oval Office on 10 June 1968 by Donald Stewart, with Senator Daniel Brewster in attendance; the grant papers are held by the Lyndon B. Johnson Presidential Library. The granting college was a private American body, founded in Maryland in 1966 and closed in 1970: not a sovereign heraldic authority, and not the American College of Heraldry founded in 1972. The grant therefore stands in a different class from President Kennedy's grant of 1961 from the Chief Herald of Ireland, or President Eisenhower's arms as a knight of the Danish Order of the Elephant. The motto is the old Johnson family motto: virtue, not lineage, is the mark of nobility. Johnson was a Hill Country man — born at Stonewall in Gillespie County, raised at Johnson City in Blanco County, and master of the LBJ Ranch on the Pedernales — and he never resided in Bexar County or in any county neighbouring it; Gillespie and Blanco are the ring beyond the neighbours, each bordering Kendall, and Blanco bordering Comal also. He is entered by the express exception of the keeper of this Roll, as a second-ring entry. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Lyndon B. Johnson Presidential Library and Museum or the Johnson family."
+
+- id: john-o-meusebach
+  category: "people"
+  name: "John O. Meusebach"
+  image: "assets/arms/meusebach.png"
+  image_credit: "The arms as engraved in Siebmacher's Wappenbuch of 1605 (public domain), the plate captioned \"V: Mevsbach\"; the shield is divided red over silver, with two wreaths in the chief and a Moor's head in the base, and the crest a demi-Moor from a crowned helm."
+  blazon: "Per fess Gules and Argent; in chief two wreaths Vert side by side; in base a Moor's head reversed."
+  crest: "On a crowned helm, a demi-Moor reversed; mantling Gules and Argent."
+  motto: "Tenax Propositi"
+  notes: "Born Otfried Hans Freiherr von Meusebach (1812–1897), a Prussian baron who on arrival in Texas put aside his title of nobility and adopted the name John O. Meusebach. He succeeded Prince Carl of Solms-Braunfels as commissioner-general of the Adelsverein, the German emigration society, and directed its colony from New Braunfels from 1845 to 1847; in 1847 he made the treaty with the Penateka Comanche that bears his name. In 1846 he founded Fredericksburg, in Gillespie County — outside this Roll's ground, and recorded here only for completeness. He sat in the Senate of Texas in 1851–53 for the district of Bexar, Comal and Medina, his home listed as New Braunfels in Comal County; the family home stood there until a tornado destroyed it on 12 September 1869. His arms are his family's, as recorded in Siebmacher's Wappenbuch of 1605 and in Zedlitz-Neukirch's Neues Preussisches Adels-Lexicon (1836); his motto, Tenax Propositi — steadfast in purpose — is remarked in the Handbook of Texas. Entered under this Roll's rule for the neighbouring counties (Comal). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the family of Meusebach."
+
+- id: carl-of-solms-braunfels
+  category: "people"
+  name: "Prince Carl of Solms-Braunfels"
+  blazon: "Or semy of billets Azure, a lion rampant Azure."
+  crest: "A lion Azure sejant affronty in a vol per fess Gules and Or."
+  notes: "Carl, Prince of Solms-Braunfels (1812–1875), first commissioner-general of the Adelsverein, the German emigration society. He bought the tract on the Guadalupe and Comal rivers from Juan Martín Veramendi and Raphael C. Garza, and on Good Friday, 21 March 1845, founded New Braunfels at its head, naming it for Braunfels, his ancestral castle on the Lahn; there he laid out the Zinkenburg stockade and the Sophienburg fort. His time in Texas was brief — some ten months in all, about two of them at New Braunfels — and he sailed for Germany on 15 May 1845 and never returned; the colony was carried on by John O. Meusebach, entered above. The arms are the house arms of Solms-Braunfels, the blue lion on gold strewn with blue billets, borne as the centre shield of the princely arms; they are not the differenced civic arms of the town of Braunfels. New Braunfels High School's unicorn mascot, adopted in 1928, descends from a misreading of these arms — the beast is a lion, not a unicorn. Entered under this Roll's rule for the neighbouring counties (Comal). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the House of Solms-Braunfels."
+
 - id: garcia-siller
   category: "people"
   name: "Gustavo García-Siller"
@@ -244,6 +271,16 @@
   blazon: "On a shield-shaped field Gules, a shield per fess: in chief per pale, dexter quarterly Castile and León, sinister Argent the Mexican national emblem rendered Or; in base Azure, a mullet Or between two laurel branches Argent. The shield encircled by a collar of interlaced links Or, in the manner of the collar of the Golden Fleece, and ensigned with a Spanish royal crown; across the top a ribbon Azure inscribed LOS BEXAREÑOS; below, two hands upholding the shield, their wrists merging into the roots of a tree. (Blazon rendered descriptively from the Society's emblem; no official blazon is published.)"
   motto: "Our History, Our Roots, Our Family / Nuestra Historia, Nuestras Raíces, Nuestra Familia"
   notes: "The genealogical and historical society of Hispanic Bexar, founded by Gloria V. Cadena in 1983 and chartered as a non-profit in 1987; its journal has appeared since 1983, now as the annual Yearly Register of translated censuses, marriages, baptisms, burials and wills. Among its publications is the Founding Canary Island Family papers series, including The Travieso Family Papers (2008), for the seventh founding family — the Isleño founders entered with the Canary Islands Descendants Association above. The hands and roots below the shield are the Society's motto pictured: history held up by the families who descend from it. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Society."
+
+- id: jose-eligio-sanchez
+  category: "people"
+  name: "Jose Eligio Sanchez"
+  image: "assets/arms/sanchez.png"
+  image_credit: "The armiger's arms in their full achievement, as displayed on his page of the register of the Society of American Armigers (depiction by Ljubodrag Grujic), shown here for identification."
+  blazon: "Per Pale to dexter Vert a castle triple towered Argent masoned Sable each Tower bearing a flagpole flying a pennant, the dexter Azure, the centre Argent a cross Gules and the sinister Argent a saltire Gules, on a Base wavy Azure three Barrulets wavy Argent; to sinister per fess in Chief Argent two Bends Or Fimbriated Gules overall a Lion ancient rampant Sable in Base Gules a Tower Or masoned Sable co-joint to dexter with a Scaling Ladder Or debruised by an Armored Knight Proper climbing up half way."
+  crest: "Issuant from a tower Argent masoned Sable a crossbow Proper."
+  motto: "In Honorem Omnium Patrum Meorum"
+  notes: "A living armiger of Schertz, Texas — a retired major of the United States Air Force. He was born in Puerto Rico, in a military hospital near the castle of San Felipe del Morro at San Juan, which the triple-towered castle of the dexter half commemorates. His arms were certified by Don Vicente de Cadenas y Vicent, Cronista Rey de Armas, in Spain on 27 May 2004 (Protocol 6/2004), and are recorded in The Armorial Register (No. 0571, 2020), with the American College of Heraldry (No. 4209, 2020), and with the Society of American Armigers (No. AA0180, 2025). Schertz stands on the Bexar–Guadalupe line, and he is entered under this Roll's rule for the neighbouring counties (Guadalupe). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, Mr. Sanchez."
 
 - id: mcatee
   category: "people"
