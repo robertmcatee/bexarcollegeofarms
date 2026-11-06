@@ -47,6 +47,7 @@ This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of 
   {% if arm.crest %}<p><span class="label">Crest</span> — {{ arm.crest }}</p>{% endif %}
   {% if arm.motto %}<p><span class="label">Motto</span> — {{ arm.motto }}</p>{% endif %}
   <p>{{ arm.notes }}</p>
+  {% if arm.website %}<p><span class="label">Website</span> — <a href="{{ arm.website }}">{{ arm.website | remove: "https://" | remove: "http://" }}</a></p>{% endif %}
   <hr class="rule">
 </div>
 {% endfor %}
