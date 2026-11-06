@@ -27,13 +27,14 @@
 
 <hr class="rule">
 
-This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of Bexar. The Roll is rendered from a single data file: one record per entry — name, category, blazon, crest, motto, notes — with one image per entry. Use the filter above the Roll to view it by kind: government, institutions, or people. Entries are added by adding a record, never by editing this page.
+This is the Roll of Arms of Bexar County, Texas, kept by the College of Arms of Bexar. The Roll is rendered from a single data file: one record per entry — name, category, blazon, crest, motto, notes — with one image per entry. Use the filter above the Roll to view it by kind: government, military, institutions, or people. Entries are added by adding a record, never by editing this page.
 
 <p class="stub">The Roll is newly opened. The missions, the lineages, and the rest of the county's armory are to follow.</p>
 
 <div class="filters" role="group" aria-label="Filter the Roll">
   <button type="button" data-filter="all" class="active">All ({{ site.data.arms | size }})</button>
   <button type="button" data-filter="government">Government ({{ site.data.arms | where: "category", "government" | size }})</button>
+  <button type="button" data-filter="military">Military ({{ site.data.arms | where: "category", "military" | size }})</button>
   <button type="button" data-filter="institutions">Institutions ({{ site.data.arms | where: "category", "institutions" | size }})</button>
   <button type="button" data-filter="people">People ({{ site.data.arms | where: "category", "people" | size }})</button>
 </div>
