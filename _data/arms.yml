@@ -55,8 +55,8 @@
 - id: lyndon-b-johnson
   category: "people"
   name: "Lyndon B. Johnson"
-  image: "assets/arms/lbj.svg"
-  image_credit: "The arms of President Johnson with their crest, as depicted on Wikimedia Commons (depiction by Glasshouse, using elements by Sodacan and Heralder, CC BY-SA 4.0)."
+  image: "assets/arms/lbj.png"
+  image_credit: "The arms of President Johnson with their crest, as depicted on Wikimedia Commons (depiction by Glasshouse, using elements by Sodacan and Heralder, CC BY-SA 4.0), with the armiger's motto on a scroll beneath, added by this College."
   blazon: "Azure, on a saltire Gules fimbriated Argent between four eagles displayed, a mullet Or."
   crest: "On a wreath of the colors, an armed hand Argent supporting an eagle rising Or."
   motto: "Nobilitatis virtus non stemma character"
@@ -160,14 +160,6 @@
   blazon: "Argent, a cross potent between four crosslets Gules. (The arms attributed to the Latin Kingdom of Jerusalem, borne by the Order with the Jerusalem cross enamelled in red — the colour of blood, for the five wounds of Christ — as the Order's own accounts of its arms describe them.)"
   motto: "Deus lo vult"
   notes: "A Catholic order of knighthood under the protection of the Holy See, charged with supporting the Christian presence in the Holy Land. Its Southwestern Lieutenancy — covering Texas, Oklahoma, Arkansas and New Mexico — keeps an Archdiocese of San Antonio Section, whose representatives are Sir David and Dame Janet Pollock; San Antonio is typically the lieutenancy's second-largest city contingent after Houston, and the lieutenancy's annual investiture weekend was held in San Antonio on 5–7 September 2025, with the Investiture Mass at San Fernando Cathedral. In the full achievement, two white standards bearing the red cross flank the helmet, and the two angel supporters stand for the Order's crusading and pilgrim natures. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Equestrian Order of the Holy Sepulchre of Jerusalem."
-
-- id: order-of-malta
-  category: "ecclesiastical"
-  name: "Order of Malta"
-  image: "assets/arms/order-of-malta.svg"
-  image_credit: "The shield of the Order — a plain white cross on red — as depicted on Wikimedia Commons (depiction by Constantine Plakidas)."
-  blazon: "Gules, a cross Argent. (The plain white Latin cross on a red field, granted to the Knights Hospitaller in 1130 to distinguish them from the Templars. The Order's eight-pointed white cross is its badge, borne among other places on the flag of its works; it is not the shield.)"
-  notes: "The Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta — the Knights Hospitaller, recognised in 1113, sovereign in Rhodes and afterwards in Malta, and today a sovereign subject of international law headquartered in Rome, devoted to the care of the sick and the poor. In the United States, its Federal Association keeps three Texas regions, of which one is the joint Austin/San Antonio Region — a shared regional presence across the two cities, recorded here exactly as such, not as a San Antonio house. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Sovereign Military Order of Malta."
 
 - id: texas-cavaliers
   category: "institutions"
