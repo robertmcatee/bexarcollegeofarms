@@ -57,6 +57,8 @@
 </div>
 {% endfor %}
 
+<p class="credit">A note on reading the Roll. Heraldry is a written system before it is a pictured one: the blazon, the short formal description given with each entry, is the coat of arms itself, and the painting is one rendering of those words. Another artist working from the same words would paint it differently, and be no less correct. Where a painting and its blazon differ, the blazon governs.</p>
+
 <script>
   (function () {
     var buttons = document.querySelectorAll('.filters button');
