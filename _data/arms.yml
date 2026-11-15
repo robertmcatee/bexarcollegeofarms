@@ -14,7 +14,7 @@
   motto: "Friendship"
   image: "assets/arms/texas-arms.png"
   image_alt: "Arms of the State of Texas"
-  image_credit: "Emblazonment by this College from the statutory blazon (Texas Government Code § 3101.002(a)): the shield Azure with the mullet Argent; the olive and live oak branches borne as supporters, tied with a ribbon Or; below, the motto Friendship on a scroll. The State's standard design as published bears the device alone, with no shield or ground; see the note."
+  image_credit: "Emblazonment painted for this College, 2026, from the statutory blazon (Texas Government Code § 3101.002(a)): the shield Azure with the mullet Argent; the olive and live oak branches borne as supporters, tied with a ribbon Or; below, the motto Friendship on a scroll. The State's standard design as published bears the device alone, with no shield or ground; see the note."
   blazon: "\"The state arms are a five-pointed white star, on an azure background, encircled by olive and live oak branches.\" (Texas Government Code § 3101.002(a), carrying forward the Act of the Congress of the Republic of Texas of 25 January 1839.) Azure, a mullet of five points Argent."
   notes: "The arms of the sovereign State, entered at the head of this Roll; no other sovereign arms are recorded here. The State's motto is Friendship (Texas Government Code § 3101.004; adopted 1930), the meaning of the name Tejas itself, from the Caddo táyshaʼ, 'friends' or 'allies.' The words REMEMBER THE ALAMO belong to the reverse of the state seal, not to the arms. The State's standard design shows the star and branches alone, with no shield and no ground; this Roll emblazons the statutory blazon in full — the star on its azure shield, the olive and live oak branches as supporters, and the motto on a scroll below. Older depictions differ: the Republic's $3 treasury note of 1841 shows the star alone on a round shield, and an 1876 lithograph sets the star and wreath as a medallion on a larger shield; both are recorded as variants, not followed."
 
@@ -22,8 +22,8 @@
   category: "government"
   name: "Bexar County"
   blazon: "Quarterly: first, Argent, a bend Sable; an orle of eight chain links Or overall; second, Azure, Mission San Francisco de la Espada Argent; third, Vert, an eagle displayed Or; fourth, Gules, in chief a mullet and in base a cannon, both Argent. Above the shield, a Spanish ducal coronet; below, a banner inscribed BEXAR."
-  image: "assets/arms/bexar-county.svg"
-  image_credit: "The county's official arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
+  image: "assets/arms/bexar-county.png"
+  image_credit: "The county's official arms (adopted 1971), here in an emblazonment painted for this College, 2026, after the county's published depiction, with the Spanish ducal coronet above and the name on a banner below."
   notes: "The official coat of arms of Bexar County, adopted by the Commissioners Court on 22 December 1971 (the county website gives 1972). Designed by Thomas A. Wilson and illustrated by Ramon Vasquez y Sanchez; confirmed and approved by Fernando Muñoz Altea, King of Arms of the Royal House of Bourbon-Two Sicilies. The first quarter bears the arms of Don Álvaro de Zúñiga, Duke of Béjar, with the gold chains of Navarre; the cannon in the fourth quarter is turned toward the eagle of the third, for the wars Texas fought with Mexico and the United States."
 
 - id: san-antonio
@@ -31,17 +31,17 @@
   name: "City of San Antonio"
   blazon: "Per pale: dexter, Or and Gules over Argent semy of ermine spots Sable, overall a tau cross Azure; sinister, Gules, in chief a mullet Azure and Argent, in base the Alamo Argent. Above the shield, a mural crown Or; below, a banner inscribed LIBERTATIS CUNABULA. (Blazon rendered descriptively from the published depiction; the official blazon is to be confirmed.)"
   motto: "Libertatis Cunabula"
-  image: "assets/arms/san-antonio.svg"
-  image_credit: "The city's arms as published (depiction via Wikimedia Commons). Placeholder image, pending the College's standard rendering."
+  image: "assets/arms/san-antonio.png"
+  image_credit: "The city's arms as published by the City of San Antonio, here in an emblazonment painted for this College, 2026, with the mural crown above and the motto on a banner below."
   notes: "The arms of the City of San Antonio as published. The tau is the cross of Saint Anthony of Padua, the city's patron; the other half bears the Lone Star above the Alamo. The motto, Libertatis Cunabula — Cradle of Liberty — is the city's own, carried also on its seal (designed 1925 by Johannes C. Scholze; designated the official seal in 1981)."
 
 - id: utsa
   category: "academic"
   name: "University of Texas at San Antonio"
   motto: "Disciplina Praesidium Civitatis"
-  image: "assets/arms/utsa-escutcheon.png"
+  image: "assets/arms/utsa.png"
   image_alt: "Escutcheon of the University of Texas at San Antonio"
-  image_credit: "The escutcheon from the centre of the crest of UT San Antonio (depiction via Wikimedia Commons, public domain as a simple logo; the crest itself is a trademark of the University) — the full crest rings it with the University's name — with the University's motto on a scroll beneath, added by this College. Shown for identification."
+  image_credit: "The escutcheon from the centre of the crest of UT San Antonio (the crest itself is a trademark of the University), here set in a traditional shield in an emblazonment painted for this College, 2026, with the University's motto on a scroll beneath, added by this College. Shown for identification."
   blazon: "A shield Orange cut by three grooves embowed Argent, the base tier ending in an upward point. (Blazon rendered descriptively from the published depiction; no official blazon exists. The shield stands at the centre of the University's circular crest, ringed by the words THE UNIVERSITY OF TEXAS AT SAN ANTONIO.)"
   notes: "The crest of the city's public research university, founded 1969. The circular crest was adopted in 2025 for the unified UT San Antonio, formed on 1 September 2025 by the merger of the University of Texas at San Antonio with the University of Texas Health Science Center at San Antonio. The University's own account of the mark: its stacked tiers are the crested waves of the San Antonio River Basin, its base point an upward arrow of momentum and aspiration, and its shield an emblem of trust, academic rigor and protection. The motto, Disciplina Praesidium Civitatis — 'A cultivated mind is the guardian genius of democracy,' the words of Mirabeau B. Lamar — is the motto of the University of Texas System. The crest is a modern trademark device, not a grant of arms. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the University."
 
@@ -49,8 +49,8 @@
   category: "ecclesiastical"
   name: "Archdiocese of San Antonio"
   blazon: "Azure, on a cross quadrate in the centre Argent a Tau-cross of the first; in dexter chief a star of the second. The shield is ensigned with a mitre. (Blazon as recorded in Heuser, Some Recent Episcopal Arms, The American Ecclesiastical Review, 1916.)"
-  image: "assets/arms/archdiocese-of-san-antonio.svg"
-  image_credit: "The arms of the Archdiocese as depicted on Wikimedia Commons (depiction by Linestamp, released into the public domain under CC0)."
+  image: "assets/arms/archdiocese-of-san-antonio.png"
+  image_credit: "The arms of the Archdiocese, here in an emblazonment painted for this College, 2026, after the published depiction (Wikimedia Commons, by Linestamp, CC0); the shield is ensigned with a mitre."
   notes: "The Roman Catholic archdiocese erected as the Diocese of San Antonio on 28 August 1874 and raised to an archdiocese on 3 August 1926; its cathedral is San Fernando, and its territory includes Bexar County. The tau is the crutch-cross of Saint Anthony of Padua, the city's patron; the star is the Lone Star of Texas. The same tau appears in the arms of the City of San Antonio in this Roll. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the Archdiocese of San Antonio."
 
 - id: lyndon-b-johnson
