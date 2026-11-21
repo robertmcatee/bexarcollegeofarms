@@ -172,6 +172,15 @@
   image2_credit: "The Cavaliers' own organizational badge in an emblazonment painted for this College, 2026: a mullet Azure; a shield-shaped badge bearing a horseman Sable, cloaked and plumed Gules, within a bordure paly Argent and Gules; and the name on a scroll Azure lettered Argent."
   notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon. The arms shown are this College's regularization of their organizational badge into armorial form, built from the badge's own devices; they are not arms borne by the Cavaliers. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
 
+- id: adelsverein
+  category: "institutions"
+  name: "Adelsverein"
+  blazon: "The society bore no arms; its seal bears a mullet of five points above a garb, within an oval inscribed with its name."
+  image: "assets/arms/adelsverein.png"
+  image_alt: "Seal of the Adelsverein, 1845"
+  image_credit: "The society's own seal, as printed in 1845: a five-pointed star above a wheatsheaf, within an oval inscribed with its name. (DeGolyer Library, Southern Methodist University.)"
+  notes: "The Verein zum Schutze deutscher Einwanderer in Texas — the Society for the Protection of German Immigrants in Texas, known as the Mainzer Adelsverein — was organized on 20 April 1842 by twenty-one German noblemen at Biebrich on the Rhine and formally constituted on 25 March 1844, Prince Carl Emich III of Leiningen presiding. Its commissioners general in Texas were Prince Carl of Solms-Braunfels and, after him, John O. Meusebach, both entered in this Roll. Settling the Fisher–Miller grant, it landed more than 7,000 German emigrants in Texas and founded New Braunfels (1845) and Fredericksburg (1846); Meusebach's treaty with the Penateka Comanche (1847) opened the grant to settlement. The enterprise ended in debt in 1853. The seal joins the star of Texas to the wheatsheaf of the harvest the emigrants came for."
+
 - id: 141st-infantry
   category: "military"
   name: "141st Infantry Regiment"
