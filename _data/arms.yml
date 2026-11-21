@@ -164,9 +164,9 @@
   image: "assets/arms/texas-cavaliers.png"
   image_alt: "Arms of the Texas Cavaliers, as regularized by this College"
   image_credit: "Emblazonment painted for this College, 2026, of arms regularized by the College from the Cavaliers' organizational badge: the badge's mounted cavalier and red-and-white striped border set on a traditional shield, and its star borne as a crest on a wreath, within a wreath of live oak and olive after the crest of the State of Texas."
-    image2: "assets/arms/texas-cavaliers-badge.png"
-      image2_alt: "The Texas Cavaliers' own organizational badge, hand-painted"
-        image2_credit: "The Cavaliers' own organizational badge in an emblazonment painted for this College, 2026: a mullet Azure; a shield-shaped badge bearing a horseman Sable, cloaked and plumed Gules, within a bordure paly Argent and Gules; and the name on a scroll Azure lettered Argent."
+  image2: "assets/arms/texas-cavaliers-badge.png"
+  image2_alt: "The Texas Cavaliers' own organizational badge, hand-painted"
+  image2_credit: "The Cavaliers' own organizational badge in an emblazonment painted for this College, 2026: a mullet Azure; a shield-shaped badge bearing a horseman Sable, cloaked and plumed Gules, within a bordure paly Argent and Gules; and the name on a scroll Azure lettered Argent."
   notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon. The arms shown are this College's regularization of their organizational badge into armorial form, built from the badge's own devices; they are not arms borne by the Cavaliers. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
 
 - id: 141st-infantry
