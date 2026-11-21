@@ -21,6 +21,9 @@
   .filters button { font-family: inherit; font-variant: small-caps; letter-spacing: .06em; font-size: 1em; color: #8a6d2f; background: none; border: 1px solid #8a6d2f; border-radius: 2em; padding: .25em 1em; margin: 0 .25em .4em; cursor: pointer; }
   .filters button:hover { background: #f3ecd9; }
   .filters button.active { background: #8a6d2f; color: #fff; }
+  .img-toggle { font-family: inherit; font-variant: small-caps; letter-spacing: .06em; font-size: .95em; color: #8a6d2f; background: none; border: 1px solid #8a6d2f; border-radius: 2em; padding: .25em 1em; cursor: pointer; }
+  .img-toggle:hover { background: #f3ecd9; }
+  .toggle-wrap { text-align: center; margin-top: .4em; }
 </style>
 
 <div class="masthead">
@@ -46,8 +49,11 @@
 {% for arm in site.data.arms %}
 <div class="entry" data-category="{{ arm.category }}">
   <h2>{{ arm.name }}</h2>
-  {% if arm.image %}<img src="{{ arm.image | relative_url }}" alt="{{ arm.image_alt | default: 'Arms of ' | append: arm.name }}">{% endif %}
-  {% if arm.image_credit %}<p class="credit">{{ arm.image_credit }}</p>{% endif %}
+  {% if arm.image %}<img class="main-img" src="{{ arm.image | relative_url }}" alt="{{ arm.image_alt | default: 'Arms of ' | append: arm.name }}">{% endif %}
+  {% if arm.image2 %}<img class="alt-img" src="{{ arm.image2 | relative_url }}" alt="{{ arm.image2_alt | default: arm.name }}" hidd>{% endif %}
+  {% if arm.image_credit %}<p class="credit main-credit">{{ arm.image_credit }}</p>{% endif %}
+  {% if arm.image2_credit %}<p class="credit alt-credit" hidden>{{ arm.image2_credit }}</p>{% endif %}
+  {% if arm.image2 %}<p class="toggle-wrap"><button type="button" class="img-toggle">See the bearer's own device</button></p>{% endif %}
   {% if arm.blazon %}<p class="blazon"><span class="label">Blazon</span> — {{ arm.blazon }}</p>{% endif %}
   {% if arm.crest %}<p><span class="label">Crest</span> — {{ arm.crest }}</p>{% endif %}
   {% if arm.motto %}<p><span class="label">Motto</span> — {{ arm.motto }}</p>{% endif %}
@@ -71,6 +77,25 @@
         entries.forEach(function (e) {
           e.style.display = (f === 'all' || e.getAttribute('data-category') === f) ? '' : 'none';
         });
+      });
+    });
+  })();
+</script>
+<script>
+  (function () {
+    document.querySelectorAll('.img-toggle').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var entry = btn.closest('.entry');
+        var mainImg = entry.querySelector('.main-img');
+        var altImg = entry.querySelector('.alt-img');
+        var mainCredit = entry.querySelector('.main-credit');
+        var altCredit = entry.querySelector('.alt-credit');
+        var showingAlt = !altImg.hidden;
+        altImg.hidden = showingAlt;
+        mainImg.hidden = !showingAlt;
+        if (altCredit) { altCredit.hidden = showingAlt; }
+        if (mainCredit) { mainCredit.hidden = !showingAlt; }
+        btn.textContent = showingAlt ? "See the bearer's own device" : "See the College's emblazonment";
       });
     });
   })();
