@@ -50,7 +50,7 @@
 <div class="entry" data-category="{{ arm.category }}">
   <h2>{{ arm.name }}</h2>
   {% if arm.image %}<img class="main-img" src="{{ arm.image | relative_url }}" alt="{{ arm.image_alt | default: 'Arms of ' | append: arm.name }}">{% endif %}
-  {% if arm.image2 %}<img class="alt-img" src="{{ arm.image2 | relative_url }}" alt="{{ arm.image2_alt | default: arm.name }}" hidd>{% endif %}
+  {% if arm.image2 %}<img class="alt-img" src="{{ arm.image2 | relative_url }}" alt="{{ arm.image2_alt | default: arm.name }}" hidden>{% endif %}
   {% if arm.image_credit %}<p class="credit main-credit">{{ arm.image_credit }}</p>{% endif %}
   {% if arm.image2_credit %}<p class="credit alt-credit" hidden>{{ arm.image2_credit }}</p>{% endif %}
   {% if arm.image2 %}<p class="toggle-wrap"><button type="button" class="img-toggle">See the bearer's own device</button></p>{% endif %}
