@@ -176,11 +176,11 @@
 - id: adelsverein
   category: "institutions"
   name: "Adelsverein"
-  blazon: "The society bore no arms; its seal bears a mullet of five points above a garb, within an oval inscribed with its name."
+  blazon: "The society bore no arms; its seal bears a mullet of five points above a sheaf of arrows, within an oval inscribed with its name."
   image: "assets/arms/adelsverein.png"
   image_alt: "Seal of the Adelsverein, 1845"
-  image_credit: "The society's own seal, as printed in 1845: a five-pointed star above a wheatsheaf, within an oval inscribed with its name. (DeGolyer Library, Southern Methodist University.)"
-  notes: "The Verein zum Schutze deutscher Einwanderer in Texas — the Society for the Protection of German Immigrants in Texas, known as the Mainzer Adelsverein — was organized on 20 April 1842 by twenty-one German noblemen at Biebrich on the Rhine and formally constituted on 25 March 1844, Prince Carl Emich III of Leiningen presiding. Its commissioners general in Texas were Prince Carl of Solms-Braunfels and, after him, John O. Meusebach, both entered in this Roll. Settling the Fisher–Miller grant, it landed more than 7,000 German emigrants in Texas and founded New Braunfels (1845) and Fredericksburg (1846); Meusebach's treaty with the Penateka Comanche (1847) opened the grant to settlement. The enterprise ended in debt in 1853. The seal joins the star of Texas to the wheatsheaf of the harvest the emigrants came for."
+  image_credit: "The society's own seal, as printed in 1845: a five-pointed star above a bundle of arrows, within an oval inscribed with its name. (DeGolyer Library, Southern Methodist University.)"
+  notes: "The Verein zum Schutze deutscher Einwanderer in Texas — the Society for the Protection of German Immigrants in Texas, known as the Mainzer Adelsverein — was organized on 20 April 1842 by twenty-one German noblemen at Biebrich on the Rhine and formally constituted on 25 March 1844, Prince Carl Emich III of Leiningen presiding. Its commissioners general in Texas were Prince Carl of Solms-Braunfels and, after him, John O. Meusebach, both entered in this Roll. Settling the Fisher–Miller grant, it landed more than 7,000 German emigrants in Texas and founded New Braunfels (1845) and Fredericksburg (1846); Meusebach's treaty with the Penateka Comanche (1847) opened the grant to settlement. The enterprise ended in debt in 1853. The seal joins the star of Texas to a bundle of arrows — the old emblem of unity: a single arrow can be broken, a bound sheaf cannot."
 
 - id: 141st-infantry
   category: "military"
