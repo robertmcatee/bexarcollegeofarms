@@ -179,14 +179,14 @@
 - id: adelsverein
   category: "institutions"
   name: "Adelsverein"
-  blazon: "Azure, a mullet of five points Argent above a sheaf of arrows Or."
+  blazon: "Or, a mullet of five points Azure above a sheaf of arrows Azure."
   image: "assets/arms/adelsverein.png"
-  image_alt: "Arms of the Adelsverein, emblazoned for this College: a silver star above a sheaf of gold arrows on blue"
-  image_credit: "Emblazonment painted for this College, 2026: the device of the society's 1845 seal, coloured Azure, Argent and Or from the arms of its founding houses of Leiningen and Solms-Braunfels."
+  image_alt: "Arms of the Adelsverein, emblazoned for this College: a blue star above a sheaf of blue arrows on a gold oval shield"
+  image_credit: "Emblazonment painted for this College, 2026: the device of the society's 1845 seal, coloured Or and Azure — the arms of Prince Carl of Solms-Braunfels, the society's first commissioner general in Texas."
   image2: "assets/arms/adelsverein-seal.png"
   image2_alt: "Seal of the Adelsverein, 1845"
   image2_credit: "The society's own seal, as printed in 1845: a five-pointed star above a bundle of arrows, within an oval inscribed with its name. (DeGolyer Library, Southern Methodist University.)"
-  notes: "The Verein zum Schutze deutscher Einwanderer in Texas — the Society for the Protection of German Immigrants in Texas, known as the Mainzer Adelsverein — was organized on 20 April 1842 by twenty-one German noblemen at Biebrich on the Rhine and formally constituted on 25 March 1844, Prince Carl Emich III of Leiningen presiding. Its commissioners general in Texas were Prince Carl of Solms-Braunfels and, after him, John O. Meusebach, both entered in this Roll. Settling the Fisher–Miller grant, it landed more than 7,000 German emigrants in Texas and founded New Braunfels (1845) and Fredericksburg (1846); Meusebach's treaty with the Penateka Comanche (1847) opened the grant to settlement. The enterprise ended in debt in 1853. The society bore no arms of its own; its seal joins the star of Texas to a bundle of arrows — the old emblem of unity: a single arrow can be broken, a bound sheaf cannot."
+  notes: "The Verein zum Schutze deutscher Einwanderer in Texas — the Society for the Protection of German Immigrants in Texas, known as the Mainzer Adelsverein — was organized on 20 April 1842 by twenty-one German noblemen at Biebrich on the Rhine and formally constituted on 25 March 1844, Prince Carl Emich III of Leiningen presiding. Its commissioners general in Texas were Prince Carl of Solms-Braunfels and, after him, John O. Meusebach, both entered in this Roll. Settling the Fisher–Miller grant, it landed more than 7,000 German emigrants in Texas and founded New Braunfels (1845) and Fredericksburg (1846); Meusebach's treaty with the Penateka Comanche (1847) opened the grant to settlement. The enterprise ended in debt in 1853. The society bore no arms of its own; its seal joins the star of Texas to a bundle of arrows — the old emblem of unity: a single arrow can be broken, a bound sheaf cannot. The College colours the device from the arms of Solms-Braunfels: of the society's founders, Prince Carl alone came to Texas, and the colours follow the man who was here."
 
 - id: 141st-infantry
   category: "military"
