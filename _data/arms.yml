@@ -71,6 +71,9 @@
   name: "John O. Meusebach"
   image: "assets/arms/meusebach.png"
   image_credit: "The arms as engraved in Siebmacher's Wappenbuch of 1605 (public domain), here in an emblazonment painted for this College, 2026, with the armiger's motto on a scroll beneath as part of the painting; the shield is divided red over silver, with two wreaths in the chief and a Moor's head reversed in the base, and the crest a demi-Moor reversed from a crowned helm."
+    image2: "assets/arms/meusebach-siebmacher.png"
+      image2_alt: "The arms of Meusebach as engraved in Siebmacher's Wappenbuch of 1605, captioned 'V: Mevsbach'"
+        image2_credit: "The family's arms as engraved in Siebmacher's Wappenbuch of 1605, the plate captioned 'V: Mevsbach' — the engraving from which this College's emblazonment is painted. (Wikimedia Commons, public domain.)"
   blazon: "Per fess Gules and Argent; in chief two wreaths Vert side by side; in base a Moor's head reversed."
   crest: "On a crowned helm, a demi-Moor reversed; mantling Gules and Argent."
   motto: "Tenax Propositi"
@@ -84,9 +87,9 @@
   blazon: "Or semy of billets Azure, a lion rampant Azure."
   crest: "A lion Azure sejant affronty between an open vol per fess Gules and Or; mantling Azure and Or."
   notes: "Carl, Prince of Solms-Braunfels (1812–1875), first commissioner-general of the Adelsverein, the German emigration society. He bought the tract on the Guadalupe and Comal rivers from Juan Martín Veramendi and Raphael C. Garza, and on Good Friday, 21 March 1845, founded New Braunfels at its head, naming it for Braunfels, his ancestral castle on the Lahn. His time in Texas was brief — some ten months in all — and he sailed for Germany on 15 May 1845 and never returned; the colony was carried on by John O. Meusebach, entered above. The arms are the house arms of Solms-Braunfels — the blue lion on gold strewn with blue billets — borne as the centre shield of the princely arms; they are not the differenced civic arms of the town of Braunfels. New Braunfels High School's unicorn mascot, adopted in 1928, descends from a misreading of these arms: the beast is a lion, not a unicorn. The Sophienburg cornerstone document of April 1845, which he authenticated 'by my signature and the impress of my family seal,' survives at the Sophienburg Museum in New Braunfels. Entered under this Roll's rule for the neighbouring counties (Comal). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the House of Solms-Braunfels."
-  image2: "assets/arms/adelsverein-seal.png"
-  image2_alt: "Seal of the Adelsverein, 1845"
-  image2_credit: "The society's own seal, as printed in 1845: a five-pointed star above a bundle of arrows, within an oval inscribed with its name. (DeGolyer Library, Southern Methodist University.)"
+    image2: "assets/arms/solms-braunfels-historical.jpg"
+    image2_alt: "The greater arms of the House of Solms-Braunfels in a period depiction, supported by a wild man and a griffin"
+    image2_credit: "The house's greater arms in a period coloured depiction: the marshalled shield under the princely crown, the billety lion at its centre, supported by a wild man and a griffin. The main view is this College's emblazonment of the small arms Carl bore — that shield alone."
 
 - id: ernst-von-coreth
   category: "people"
