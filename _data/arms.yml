@@ -248,11 +248,11 @@
   name: "San Antonio German Club"
   blazon: "Per bend sinister: dexter Gules, a crescent and a mullet Argent; sinister Argent, a lyre Gules. The shield is flanked by two palm trees, and below it a scroll is inscribed SAN ANTONIO GERMAN CLUB. (Blazon rendered descriptively from the club's depiction.)"
   image: "assets/arms/san-antonio-german-club.png"
-    image_alt: "Arms of the San Antonio German Club, painted for this College: a silver crescent and star on red, a red lyre on white, flanked by two palm trees"
+  image_alt: "Arms of the San Antonio German Club, painted for this College: a silver crescent and star on red, a red lyre on white, flanked by two palm trees"
   image_credit: "Rendition painted for this College, 2026, of the club's arms: the shield, palm-tree supporters and name scroll as the club bears them."
-    image2: "assets/arms/san-antonio-german-club-device.png"
-      image2_alt: "Arms of the San Antonio German Club as used by the club"
-        image2_credit: "The club's arms as used by the club, with its palm-tree supporters and name scroll."
+  image2: "assets/arms/san-antonio-german-club-device.png"
+  image2_alt: "Arms of the San Antonio German Club as used by the club"
+  image2_credit: "The club's arms as used by the club, with its palm-tree supporters and name scroll."
   notes: "The arms of the German club of San Antonio, from the city's German-Texan community: the crescent and star on the red field, and a lyre in base for German song, the whole flanked by two palm trees — a Texas flourish on a German shield. Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the club."
 
 - id: canary-islands-descendants
