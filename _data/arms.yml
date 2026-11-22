@@ -71,9 +71,9 @@
   name: "John O. Meusebach"
   image: "assets/arms/meusebach.png"
   image_credit: "The arms as engraved in Siebmacher's Wappenbuch of 1605 (public domain), here in an emblazonment painted for this College, 2026, with the armiger's motto on a scroll beneath as part of the painting; the shield is divided red over silver, with two wreaths in the chief and a Moor's head reversed in the base, and the crest a demi-Moor reversed from a crowned helm."
-    image2: "assets/arms/meusebach-siebmacher.png"
-      image2_alt: "The arms of Meusebach as engraved in Siebmacher's Wappenbuch of 1605, captioned 'V: Mevsbach'"
-        image2_credit: "The family's arms as engraved in Siebmacher's Wappenbuch of 1605, the plate captioned 'V: Mevsbach' — the engraving from which this College's emblazonment is painted. (Wikimedia Commons, public domain.)"
+  image2: "assets/arms/meusebach-siebmacher.png"
+  image2_alt: "The arms of Meusebach as engraved in Siebmacher's Wappenbuch of 1605, captioned 'V: Mevsbach'"
+  image2_credit: "The family's arms as engraved in Siebmacher's Wappenbuch of 1605, the plate captioned 'V: Mevsbach' — the engraving from which this College's emblazonment is painted. (Wikimedia Commons, public domain.)"
   blazon: "Per fess Gules and Argent; in chief two wreaths Vert side by side; in base a Moor's head reversed."
   crest: "On a crowned helm, a demi-Moor reversed; mantling Gules and Argent."
   motto: "Tenax Propositi"
@@ -87,9 +87,9 @@
   blazon: "Or semy of billets Azure, a lion rampant Azure."
   crest: "A lion Azure sejant affronty between an open vol per fess Gules and Or; mantling Azure and Or."
   notes: "Carl, Prince of Solms-Braunfels (1812–1875), first commissioner-general of the Adelsverein, the German emigration society. He bought the tract on the Guadalupe and Comal rivers from Juan Martín Veramendi and Raphael C. Garza, and on Good Friday, 21 March 1845, founded New Braunfels at its head, naming it for Braunfels, his ancestral castle on the Lahn. His time in Texas was brief — some ten months in all — and he sailed for Germany on 15 May 1845 and never returned; the colony was carried on by John O. Meusebach, entered above. The arms are the house arms of Solms-Braunfels — the blue lion on gold strewn with blue billets — borne as the centre shield of the princely arms; they are not the differenced civic arms of the town of Braunfels. New Braunfels High School's unicorn mascot, adopted in 1928, descends from a misreading of these arms: the beast is a lion, not a unicorn. The Sophienburg cornerstone document of April 1845, which he authenticated 'by my signature and the impress of my family seal,' survives at the Sophienburg Museum in New Braunfels. Entered under this Roll's rule for the neighbouring counties (Comal). Recorded here for identification; this entry implies no affiliation with, and no endorsement by, the House of Solms-Braunfels."
-    image2: "assets/arms/solms-braunfels-historical.jpg"
-    image2_alt: "The greater arms of the House of Solms-Braunfels in a period depiction, supported by a wild man and a griffin"
-    image2_credit: "The house's greater arms in a period coloured depiction: the marshalled shield under the princely crown, the billety lion at its centre, supported by a wild man and a griffin. The main view is this College's emblazonment of the small arms Carl bore — that shield alone."
+  image2: "assets/arms/solms-braunfels-historical.jpg"
+  image2_alt: "The greater arms of the House of Solms-Braunfels in a period depiction, supported by a wild man and a griffin"
+  image2_credit: "The house's greater arms in a period coloured depiction: the marshalled shield under the princely crown, the billety lion at its centre, supported by a wild man and a griffin. The main view is this College's emblazonment of the small arms Carl bore — that shield alone."
 
 - id: ernst-von-coreth
   category: "people"
@@ -178,18 +178,6 @@
   image2_alt: "The Texas Cavaliers' own organizational badge, hand-painted"
   image2_credit: "The Cavaliers' own organizational badge in an emblazonment painted for this College, 2026: a mullet Azure; a shield-shaped badge bearing a horseman Sable, cloaked and plumed Gules, within a bordure paly Argent and Gules; and the name on a scroll Azure lettered Argent."
   notes: "A San Antonio civic organization founded in 1926, whose members choose King Antonio each year and whose River Parade raises money for children's charities in Bexar County through the Texas Cavaliers Charitable Foundation. The Cavaliers bear no arms of record and publish no blazon. The arms shown are this College's regularization of their organizational badge into armorial form, built from the badge's own devices; they are not arms borne by the Cavaliers. This entry implies no affiliation with, and no endorsement by, the Texas Cavaliers."
-
-- id: adelsverein
-  category: "institutions"
-  name: "Adelsverein"
-  blazon: "Or, a sheaf of arrows Azure. Crest: on a wreath Or and Azure, a mullet of five points Azure."
-  image: "assets/arms/adelsverein.png"
-  image_alt: "Arms of the Adelsverein, painted for this College: a blue sheaf of arrows on a gold shield, a blue star as crest, and the society's name on a blue scroll"
-  image_credit: "Achievement painted for this College, 2026: the sheaf and star of the society's 1845 seal made into a coat of arms — the sheaf on a shield Or, the star as crest on a wreath Or and Azure — in the arms of Prince Carl of Solms-Braunfels, the society's first commissioner general in Texas."
-  image2: "assets/arms/adelsverein-seal.png"
-  image2_alt: "Seal of the Adelsverein, 1845"
-  image2_credit: "The society's own seal, as printed in 1845: a five-pointed star above a bundle of arrows, within an oval inscribed with its name. (DeGolyer Library, Southern Methodist University.)"
-  notes: "The Verein zum Schutze deutscher Einwanderer in Texas — the Society for the Protection of German Immigrants in Texas, known as the Mainzer Adelsverein — was organized on 20 April 1842 by twenty-one German noblemen at Biebrich on the Rhine and formally constituted on 25 March 1844, Prince Carl Emich III of Leiningen presiding. Its commissioners general in Texas were Prince Carl of Solms-Braunfels and, after him, John O. Meusebach, both entered in this Roll. Settling the Fisher–Miller grant, it landed more than 7,000 German emigrants in Texas and founded New Braunfels (1845) and Fredericksburg (1846); Meusebach's treaty with the Penateka Comanche (1847) opened the grant to settlement. The enterprise ended in debt in 1853. The society bore no arms of its own; its seal joins the star of Texas to a bundle of arrows — the old emblem of unity: a single arrow can be broken, a bound sheaf cannot. The College colours the device from the arms of Solms-Braunfels: of the society's founders, Prince Carl alone came to Texas, and the colours follow the man who was here."
 
 - id: 141st-infantry
   category: "military"
