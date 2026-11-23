@@ -285,11 +285,21 @@
   category: "people"
   name: "Tim MᶜAtee"
   blazon: "Sable, a sheaf of arrows Or, on a chief Or three roses Sable."
-  crest: "On a torse Or and Sable, a pheon point upward Or."
+  crest: "On a torse Or and Sable, six arrows, three in bend and three in bend sinister, points upwards, fretted Or, entwined by a serpent erect in pale wavy Sable."
   motto: "In Utroque Paratus"
   image: "assets/arms/tim-mcatee.png"
   image_credit: "The armiger's arms in a painted achievement produced in Gemini (2026), chroma-keyed from its green ground by this College."
-  notes: "Assumed arms, settled by the armiger himself in conversation with his son on 22 November 2026 — version two, adopted the same day in place of version one (the escutcheon alone, with no crest and no motto). The armiger is the father of Robert MᶜAtee, keeper of this Roll."
+  notes: "Assumed arms, settled by the armiger himself in conversation with his son on 22 November 2026 — version three. Version one, adopted the same morning, was the escutcheon alone; version two, adopted the same day, added the chief, a pheon crest, and the motto. In version three the crest is the family's shared crest — the six fretted arrows and serpent borne by his son Robert MᶜAtee with the serpent Gules — differenced for Tim by the serpent Sable, by agreement between father and son. The armiger is the father of Robert MᶜAtee, keeper of this Roll."
+
+- id: daniel-mcatee
+  category: "people"
+  name: "Daniel MᶜAtee"
+  blazon: "Or, on a bend Azure a serpent wavy Or, between two hurts."
+  crest: "On a torse Or and Azure, six arrows, three in bend and three in bend sinister, points upwards, fretted Or, entwined by a serpent erect in pale wavy Azure."
+  motto: "Age Quod Agis"
+  image: "assets/arms/daniel-mcatee.png"
+  image_credit: "Attributed arms in a painted achievement produced in Gemini (2026), chroma-keyed from its green ground by this College."
+  notes: "Attributed arms, devised and entered by his brother Robert MᶜAtee in his memory (1982–2015); Daniel bore no arms in his lifetime. His crest is the family's shared crest — the six fretted arrows and serpent borne by Robert MᶜAtee with the serpent Gules — differenced for Daniel by the serpent Azure."
 
 - id: mcatee
   category: "people"
