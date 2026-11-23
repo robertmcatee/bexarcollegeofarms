@@ -284,10 +284,12 @@
 - id: tim-mcatee
   category: "people"
   name: "Tim MᶜAtee"
-  blazon: "Sable, a sheaf of arrows Or."
+  blazon: "Sable, a sheaf of arrows Or, on a chief Or three roses Sable."
+  crest: "On a torse Or and Sable, a pheon point upward Or."
+  motto: "In Utroque Paratus"
   image: "assets/arms/tim-mcatee.png"
-  image_credit: "The armiger's arms in a painted achievement produced in Gemini (2026), keyed from its black ground by this College. The helm, mantling, and crest of the depiction are presentational only; the arms of record are the escutcheon alone."
-  notes: "Assumed arms, settled by the armiger himself in conversation with his son on 22 November 2026 — version one. The arms of record are the escutcheon alone: the armiger bears no crest and no motto, and the helm, mantling, and crest shown in the depiction are supplied only so that the entry does not stand empty; they form no part of the arms. The armiger is the father of Robert MᶜAtee, keeper of this Roll."
+  image_credit: "The armiger's arms in a painted achievement produced in Gemini (2026), chroma-keyed from its green ground by this College."
+  notes: "Assumed arms, settled by the armiger himself in conversation with his son on 22 November 2026 — version two, adopted the same day in place of version one (the escutcheon alone, with no crest and no motto). The armiger is the father of Robert MᶜAtee, keeper of this Roll."
 
 - id: mcatee
   category: "people"
